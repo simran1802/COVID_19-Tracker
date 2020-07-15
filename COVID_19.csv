@@ -1,0 +1,975 @@
+age,gender,Region1 ,Region2,detected_state,nationality,Travel_hist,Disease_hist,Symptom,Label
+23,Female,Bebusarai,Bebusarai,Bihar,India,India,Null,Null,Negative
+41,Female,Balasore,Balasore,Orissa,India,India,Diabetes,Null,Negative
+21,Female,Erode,Erode,Tamil Nadu,India,India,Null,Fever,Negative
+55,Male,Gurugram,Gurugram,Haryana,Italy,Italy,BP,Fever,Positive
+41,Female,Bhilwara,Bhilwara,Rajasthan,India,India,BP,Dry Cough,Positive
+25,Female,Coimbatore,Coimbatore,Tamil Nadu,India,India,Null,Dry Cough,Positive
+41,Male,North East Delhi,North East Delhi,Delhi,India,India,Diabetes,Null,Negative
+41,Female,Hyderabad,Hyderabad,Telangana,Indonesia,India,BP,Dry Cough,Positive
+41,Female,Satna,Satna,Madhya Pradesh,India,India,Diabetes,Sore Throat,Negative
+35,Male,Kodagu,Kodagu,Karnataka,India,Malaysia,Null,Dry Cough,Positive
+41,Male,Pune,Pune,Maharashtra,India,India,BP,Fever,Positive
+96,Female,Banaras,Banaras,Uttar Pradesh,India,India,BP,Sore Throat,Negative
+40,Male,Bengaluru,Bengaluru,Karnataka,India,Dubai,BP,Breathing Problem,Positive
+32,Male,Vadodara,Vadodara,Gujarat,India,Delhi,Null,Dry Cough,Positive
+41,Female,Shaheed Bhagat Singh Nagar,Shaheed Bhagat Singh Nagar,Punjab,India,India,BP,Dry Cough,Positive
+41,Male,Sankoo Valley,Kargil,Ladakh,India,India,BP,Dry Cough,Positive
+35,Male,Bebusarai,Bebusarai,Bihar,India,India,Null,Null,Negative
+24,Male,Jaipur,Jaipur,Rajasthan,India,India,Null,Dry Cough,Positive
+41,Female,Kalanadu,Kasaragod,Kerala,India,India,BP,Dry Cough,Positive
+75,Male,Perundurai,Erode,Tamil Nadu,Thailand,Singapore,Diabetes,Dry Cough,Positive
+41,Male,Palakkad,Palakkad,Kerala,India,Dubai,Diabetes,Fever,Positive
+38,Male,Bengaluru,Bengaluru,Karnataka,India,London,Null,Dry Cough,Positive
+33,Female,Bebusarai,Bebusarai,Bihar,India,India,Null,Null,Negative
+41,Female,Delhi,Delhi,Delhi,India,Dubai,BP,Dry Cough,Positive
+67,Male,Bengaluru,Bengaluru,Karnataka,India,Russia,Diabetes,Dry Cough,Positive
+41,Male,Mumbai,Mumbai,Maharashtra,India,India,BP,Dry Cough,Positive
+41,Male,Ajmer,Ajmer,Rajasthan,India,India,Diabetes,Null,Negative
+41,Male,Delhi,Delhi,Delhi,India,London,Diabetes,Fever,Positive
+41,Female,Mumbai,Mumbai,Maharashtra,India,India,Diabetes,Null,Negative
+41,Female,Lucknow,Lucknow,Uttar Pradesh,India,UK,BP,Dry Cough,Positive
+22,Male,Bebusarai,Bebusarai,Bihar,India,India,Null,Null,Negative
+41,Male,Bebusarai,Bebusarai,Bihar,India,India,Diabetes,Sore Throat,Negative
+41,Female,Kozhencherry,Pathanamthitta,Kerala,India,Dubai,BP,Breathing Problem,Positive
+41,Female,Bhatinda,Bhatinda,Punjab,India,India,Diabetes,Null,Negative
+41,Female,North East Delhi,North East Delhi,Delhi,India,India,Diabetes,Null,Negative
+41,Female,Bebusarai,Bebusarai,Bihar,India,India,Diabetes,Sore Throat,Negative
+70,Female,Satna,Satna,Madhya Pradesh,India,India,BP,Sore Throat,Negative
+41,Male,Mumbai,Mumbai,Maharashtra,India,India,BP,Dry Cough,Positive
+65,Female,Hyderabad,Hyderabad,Telangana,India,India,BP,Null,Negative
+89,Female,Ranni,Pathanamthitta,Kerala,India,US,Diabetes,Breathing Problem,Positive
+57,Female,Ernakulam,Ernakulam,Kerala,India,Dubai,Diabetes,Fever,Positive
+49,Male,Gandhinagar,Gandhinagar,Gujarat,India,India,BP,Dry Cough,Positive
+41,Female,Bastar,Bastar,Chhattisgarh,India,India,Diabetes,Null,Negative
+45,Male,Pilibhit,Pilibhit,Uttar Pradesh,India,India,BP,Dry Cough,Positive
+25,Female,Birbhum,Birbhum,West Bengal,India,India,Null,Fever,Negative
+63,Female,Bastar,Bastar,Chhattisgarh,India,India,BP,Null,Negative
+41,Male,Kolasib,Kolasib,Mizoram,India,India,Diabetes,Null,Negative
+24,Male,Kareemnagar,Kareemnagar,Telangana,India,India,Null,Null,Negative
+75,Male,Ladakh,Leh,Ladakh,India,Malaysia,Diabetes,Breathing Problem,Positive
+65,Male,Visakapatnam,Visakhapatnam,Andhra Pradesh,India,Sri Lanka,Diabetes,Dry Cough,Positive
+41,Female,Jahangirpuri,Jahangirpuri,Delhi,India,India,BP,Dry Cough,Positive
+23,Male,North East Delhi,North East Delhi,Delhi,India,India,Null,Null,Negative
+50,Female,Shrungartali,Ratnagiri,Maharashtra,India,Italy,BP,Dry Cough,Positive
+24,Female,Wayanad,Wayanad,Kerala,India,India,Null,Sore Throat,Negative
+47,Male,Mumbai,Mumbai,Maharashtra,Phillipines,Dubai,BP,Dry Cough,Positive
+53,Male,Kalyan,Kalyan,Maharashtra,India,UK,BP,Dry Cough,Positive
+41,Male,Bandipora,Bandipora,Jammu and Kashmir,India,Dubai,Diabetes,Fever,Positive
+36,Male,Gwalior,Gwalior,Madhya Pradesh,India,India,Null,Fever,Positive
+34,Female,Ahmedabad,Ahmedabad,Gujarat,India,UK,Null,Dry Cough,Positive
+53,Male,Gandhinagar,Gandhinagar,Gujarat,India,India,Diabetes,Fever,Positive
+33,Female,Bebusarai,Bebusarai,Bihar,India,India,Null,Null,Negative
+41,Female,Chusot,Leh,Ladakh,India,India,BP,Dry Cough,Positive
+18,Male,Erode,Erode,Tamil Nadu,India,India,Null,Fever,Negative
+56,Female,Bengaluru,Bengaluru,Karnataka,India,Sri Lanka,Diabetes,Fever,Positive
+41,Female,Satna,Satna,Madhya Pradesh,India,India,Diabetes,Null,Negative
+41,Female,Bebusarai,Bebusarai,Bihar,India,India,Diabetes,Sore Throat,Negative
+41,Male,Jhunjhunu,Jhunjhunu,Rajasthan,India,Chandigarh,BP,Dry Cough,Positive
+25,Male,Vishakhapatnam,Vishakhapatnam,Andhra Pradesh,India,India,Null,Dry Cough,Positive
+62,Female,Indore,Indore,Madhya Pradesh,India,India,BP,Fever,Negative
+31,Male,Garhshankar,Hoshiarpur,Punjab,India,India,Null,Fever,Positive
+65,Male,Chitrakoot,Chitrakoot,Madhya Pradesh,India,India,BP,Sore Throat,Negative
+41,Female,Bhilwara,Bhilwara,Rajasthan,India,Delhi,BP,Dry Cough,Positive
+24,Male,Ajmer,Ajmer,Rajasthan,India,India,Null,Null,Negative
+41,Male,Mumbai,Mumbai,Maharashtra,India,Dubai,Diabetes,Fever,Positive
+41,Male,Kochi,Ernakulam,Kerala,United Kingdom,Spain,BP,Dry Cough,Positive
+41,Male,Kochi,Kannur,Kerala,India,Hyderabad,BP,Dry Cough,Positive
+41,Female,Bhopal,Bhopal,Madhya Pradesh,India,India,Diabetes,Fever,Positive
+41,Male,Wayanad,Wayanad,Kerala,India,India,Diabetes,Null,Negative
+41,Female,Ajmer,Ajmer,Rajasthan,India,India,Diabetes,Null,Negative
+41,Male,Bebusarai,Bebusarai,Bihar,India,India,Diabetes,Null,Negative
+20,Male,Bengaluru,Bengaluru,Karnataka,India,Italy,Null,Dry Cough,Positive
+81,Female,Bebusarai,Bebusarai,Bihar,India,India,BP,Sore Throat,Negative
+41,Female,Mumbai,Mumbai,Maharashtra,India,Dubai,Diabetes,Fever,Positive
+41,Female,Mumbai,Mumbai,Maharashtra,India,India,BP,Dry Cough,Positive
+41,Male,Phillaur,Jalandhar,Punjab,India,Dubai,Diabetes,Fever,Positive
+26,Female,Mumbai,Mumbai,Maharashtra,India,India,Null,Null,Negative
+22,Male,Hyderabad,Hyderabad,Telangana,India,India,Null,Dry Cough,Positive
+27,Female,Kasaragod,Kasaragod,Kerala,India,Air Arabia G9,Null,Dry Cough,Positive
+41,Male,Bebusarai,Bebusarai,Bihar,India,India,Diabetes,Sore Throat,Negative
+41,Female,Kannur,Kannur,Kerala,India,Iran,BP,Sore Throat,Positive
+53,Male,North East Delhi,North East Delhi,Delhi,India,India,Diabetes,Null,Negative
+41,Female,Bhatinda,Bhatinda,Punjab,India,India,Diabetes,Null,Negative
+59,Female,Aurangabad,Aurangabad,Maharashtra,India,US,BP,Dry Cough,Positive
+20,Male,Pune,Pune,Maharashtra,India,US,Null,Dry Cough,Positive
+43,Female,Hyderabad,Hyderabad,Telangana,India,India,Diabetes,Fever,Positive
+41,Male,Kochi,Kannur,Kerala,India,United Kingdom,BP,Dry Cough,Positive
+45,Male,East Delhi,East Delhi,Delhi,India,Austria,BP,Fever,Positive
+58,Male,Kasaragod,Kasaragod,Kerala,India,New Delhi,BP,Dry Cough,Positive
+32,Female,Kareemnagar,Kareemnagar,Telangana,India,India,Null,Null,Negative
+22,Male,Rajahmundry,East Godavari,Andhra Pradesh,India,UK,Null,Dry Cough,Positive
+41,Male,Wayanad,Wayanad,Kerala,India,India,Diabetes,Null,Negative
+34,Female,Kasaragod,Kasaragod,Kerala,India,Doha,Null,Dry Cough,Positive
+41,Female,Bebusarai,Bebusarai,Bihar,India,India,Diabetes,Null,Negative
+41,Female,Mumbai,Mumbai,Maharashtra,India,India,BP,Dry Cough,Positive
+70,Male,Kollam,Kollam,Kerala,India,India,BP,Fever,Negative
+32,Female,Kasaragod,Kasaragod,Kerala,India,Dubai,Null,Dry Cough,Positive
+41,Female,Erode,Erode,Tamil Nadu,India,India,Diabetes,Fever,Negative
+41,Female,Bhilwara,Bhilwara,Rajasthan,India,India,Diabetes,Fever,Positive
+41,Male,Rayalseema,Rayalseema,Andhra Pradesh,India,India,Diabetes,Null,Negative
+25,Female,Kasaragod,Kasaragod,Kerala,India,Wuhan,Null,Fever,Positive
+30,Female,Bebusarai,Bebusarai,Bihar,India,India,Null,Null,Negative
+35,Female,Lucknow,Lucknow,Uttar Pradesh,Canada,Italy,Null,Dry Cough,Positive
+41,Female,Satna,Satna,Madhya Pradesh,India,India,Diabetes,Sore Throat,Negative
+41,Male,Banaras,Banaras,Uttar Pradesh,India,India,Diabetes,Null,Negative
+41,Male,Jaipur,Jaipur,Rajasthan,India,Japan,BP,Dry Cough,Positive
+59,Male,Rayalseema,Rayalseema,Andhra Pradesh,India,India,Diabetes,Null,Negative
+35,Male,Mysuru,Mysuru,Karnataka,India,India,Null,Dry Cough,Positive
+41,Male,Kasaragod,Kasaragod,Kerala,India,UK,BP,Dry Cough,Positive
+52,Male,Kasaragod,Kasaragod,Kerala,India,Dubai,BP,Dry Cough,Positive
+27,Male,Karimnagar,Karimnagar,Telangana,Indonesia,India,Null,Dry Cough,Positive
+21,Female,Gurugram,Gurugram,Haryana,India,India,Null,Fever,Positive
+24,Male,Pimpri-Chinchwad,Pimpri-Chinchwad,Maharashtra,India,India,Null,Dry Cough,Positive
+45,Female,Jabalpur,Jabalpur,Madhya Pradesh,India,UK,BP,Dry Cough,Positive
+41,Female,Banaras,Banaras,Uttar Pradesh,India,India,Diabetes,Null,Negative
+41,Female,Mumbai,Mumbai,Maharashtra,India,Dubai,BP,Dry Cough,Positive
+41,Female,Gurugram,Gurugram,Haryana,India,India,BP,Dry Cough,Positive
+27,Male,Janakpuri,South West Delhi,Delhi,India,Italy,Null,Fever,Positive
+74,Female,Bastar,Bastar,Chhattisgarh,India,India,BP,Null,Negative
+41,Male,Nagpur,Nagpur,Maharashtra,India,India,BP,Dry Cough,Positive
+41,Male,Leh,Leh,Ladakh,India,Netherlands,BP,Dry Cough,Positive
+64,Female,Gowribidanur,Chikkaballapura,Karnataka,India,Dubai,Diabetes,Dry Cough,Positive
+41,Female,Ernakulam,Ernakulam,Kerala,India,India,BP,Dry Cough,Positive
+41,Male,Hyderabad,Hyderabad,Telangana,India,Dubai,BP,Dry Cough,Positive
+56,Female,Chikkaballapura,Chikkaballapura,Karnataka,India,India,Diabetes,Fever,Positive
+41,Male,Malappuram,Malappuram,Kerala,India,Dubai,Diabetes,Fever,Positive
+33,Female,Kasaragod,Kasaragod,Kerala,India,India,Null,Dry Cough,Positive
+41,Female,Bebusarai,Bebusarai,Bihar,India,India,Diabetes,Null,Negative
+41,Male,Mumbai,Mumbai,Maharashtra,India,Edenburg,BP,Dry Cough,Positive
+41,Female,Bagalkot,Bagalkot,Karnataka,India,India,Diabetes,Null,Negative
+55,Male,Gurugram,Gurugram,Haryana,Italy,Italy,BP,Fever,Positive
+41,Female,Amritsar,Amritsar,Punjab,India,Delhi,BP,Dry Cough,Positive
+69,Female,Janakpuri,South West Delhi,Delhi,India,Japan,Diabetes,Sore Throat,Positive
+41,Female,Bebusarai,Bebusarai,Bihar,India,India,Diabetes,Sore Throat,Negative
+56,Male,Kochi,Ernakulam,Kerala,India,Switzerland,BP,Dry Cough,Positive
+45,Male,Solapur,Solapur,Maharashtra,India,India,Diabetes,Null,Negative
+41,Female,Pune,Pune,Maharashtra,India,Italy,BP,Dry Cough,Positive
+20,Male,Bebusarai,Bebusarai,Bihar,India,India,Null,Null,Negative
+3,Female,Banaras,Banaras,Uttar Pradesh,India,India,Null,Sore Throat,Negative
+52,Male,Hyderabad,Hyderabad,Telangana,Indonesia,India,BP,Dry Cough,Positive
+41,Female,Bagalkot,Bagalkot,Karnataka,India,India,Diabetes,Null,Negative
+22,Male,Bengaluru,Bengaluru,Karnataka,India,India,Null,Dry Cough,Positive
+41,Female,Alirajpur,Alirajpur,Madhya Pradesh,India,India,Diabetes,Null,Negative
+24,Male,Bhavnagar,Bhavnagar,Gujarat,India,India,Null,Null,Negative
+41,Female,Bagalkot,Bagalkot,Karnataka,India,India,Diabetes,Null,Negative
+32,Male,West Delhi,West Delhi,Delhi,India,UK,Null,Dry Cough,Positive
+33,Male,Hosayellapur,Dharwad,Karnataka,India,India,Null,Dry Cough,Positive
+41,Female,Mumbai,Mumbai,Maharashtra,India,Italy,BP,Dry Cough,Positive
+41,Female,Pune,Pune,Maharashtra,India,Mecca,BP,Dry Cough,Positive
+41,Male,Sangli,Sangli,Maharashtra,India,Dubai,BP,Dry Cough,Positive
+21,Female,Bebusarai,Bebusarai,Bihar,India,India,Null,Null,Negative
+63,Male,Wayanad,Wayanad,Kerala,India,India,BP,Null,Negative
+27,Male,Ahmedabad,Ahmedabad,Gujarat,India,Italy,Null,Dry Cough,Positive
+61,Male,Wayanad,Wayanad,Kerala,India,India,BP,Sore Throat,Negative
+41,Male,Bengaluru,Bengaluru,Karnataka,India,Dubai,BP,Dry Cough,Positive
+70,Male,Mumbai,Mumbai,Maharashtra,India,India,Diabetes,Sore Throat,Positive
+41,Male,Amritsar,Amritsar,Punjab,India,Dubai,Diabetes,Fever,Positive
+37,Female,Chitradurga,Chitradurga,Karnataka,India,London,Null,Fever,Positive
+41,Male,Ahmednagar,Ahmednagar,Maharashtra,India,Dubai,Diabetes,Fever,Positive
+41,Male,Kasaragod,Kasaragod,Kerala,India,India,BP,Dry Cough,Positive
+41,Male,Mohali,Pratapgarh ,Rajasthan,India,India,BP,Dry Cough,Positive
+41,Male,Hyderabad,Hyderabad,Telangana,India,Delhi,BP,Dry Cough,Positive
+61,Male,Ernakulam,Ernakulam,Kerala,India,India,Diabetes,Dry Cough,Positive
+41,Male,Kolasib,Kolasib,Mizoram,India,India,Diabetes,Null,Negative
+25,Male,Solapur,Solapur,Maharashtra,India,India,Null,Fever,Negative
+69,Male,Kareemnagar,Kareemnagar,Telangana,India,India,BP,Null,Negative
+42,Male,Mohali,Sahibzada Ajit Singh Nagar,Punjab,India,UK,BP,Dry Cough,Positive
+68,Female,Birbhum,Birbhum,West Bengal,India,India,BP,Fever,Negative
+65,Male,Surat,Surat,Gujarat,India,Saudi Arabia,BP,Fever,Positive
+21,Male,Balkampet,Hyderabad,Telangana,India,Germany,Null,Dry Cough,Positive
+41,Female,Salem,Salem,Tamil Nadu,Indonesia,London,Diabetes,Fever,Positive
+65,Male,Chennai,Chennai,Tamil Nadu,India,Dubai,BP,Fever,Positive
+41,Female,Kozhikode,Kozhikode,Kerala,India,UK,Diabetes,Fever,Positive
+57,Male,Dum Dum,North Kolkata,West Bengal,India,India,BP,Dry Cough,Positive
+41,Male,Kasargod,Kasargod,Kerala,India,Dubai,Diabetes,Fever,Positive
+41,Female,Balasore,Balasore,Orissa,India,India,Diabetes,Null,Negative
+75,Female,Rajkot,Rajkot,Gujarat,India,Kerala,BP,Fever,Positive
+85,Male,Jaipur,Jaipur,Rajasthan,India,India,Diabetes,Sore Throat,Positive
+41,Female,Salem,Salem,Tamil Nadu,Indonesia,Saudi Arabia,Diabetes,Fever,Positive
+41,Male,Pilibhit,Pilibhit,Uttar Pradesh,India,India,Diabetes,Fever,Positive
+24,Male,Ranni,Pathanamthitta,Kerala,India,India,Null,Breathing Problem,Positive
+23,Male,Kothagudem,Bhadradri Kothagudem,Telangana,India,India,Null,Dry Cough,Positive
+22,Female,Ahmedabad,Ahmedabad,Gujarat,India,Saudi Arabia,Null,Dry Cough,Positive
+41,Female,Balasore,Balasore,Orissa,India,India,Diabetes,Null,Negative
+41,Male,Delhi,Delhi,Delhi,India,Switzerland,Diabetes,Fever,Positive
+41,Female,Delhi,Delhi,Delhi,India,Italy,BP,Dry Cough,Positive
+22,Female,Kareemnagar,Kareemnagar,Telangana,India,India,Null,Null,Negative
+2,Female,Kasaragod,Kasaragod,Kerala,India,Saudi Arabia,Null,Dry Cough,Positive
+41,Male,Sangli,Sangli,Maharashtra,India,US,Diabetes,Fever,Positive
+19,Male,Bhubaneswar,Bhubaneswar,Odisha,India,US,Null,Dry Cough,Positive
+34,Male,Bebusarai,Bebusarai,Bihar,India,India,Null,Null,Negative
+41,Female,Thrissur,Thrissur,Kerala,India,Dubai,BP,Sore Throat,Positive
+63,Female,Bengaluru,Bengaluru,Karnataka,India,Kerala,BP,Fever,Positive
+41,Female,Ernakulam,Ernakulam,Kerala,India,India,BP,Dry Cough,Positive
+23,Male,Kukatpally,Hyderabad,Telangana,India,India,Null,Dry Cough,Positive
+41,Female,Jaipur,Jaipur,Rajasthan,India,Ireland,BP,Dry Cough,Positive
+67,Female,Erode,Erode,Tamil Nadu,India,India,BP,Null,Negative
+41,Female,Mumbai,Mumbai,Maharashtra,India,India,Diabetes,Null,Negative
+41,Female,Bhatinda,Bhatinda,Punjab,India,India,Diabetes,Null,Negative
+41,Female,Bebusarai,Bebusarai,Bihar,India,India,Diabetes,Sore Throat,Negative
+21,Female,Bhavnagar,Bhavnagar,Gujarat,India,India,Null,Null,Negative
+32,Male,Bengaluru,Bengaluru,Karnataka,India,India,Null,Dry Cough,Positive
+41,Female,Salem,Salem,Tamil Nadu,Indonesia,Thailand,Diabetes,Fever,Positive
+41,Male,Bandipora,Bandipora,Jammu and Kashmir,India,India,Diabetes,Fever,Positive
+62,Female,Greater Noida,Gautam Buddh Nagar,Uttar Pradesh,India,Dubai,Diabetes,Dry Cough,Positive
+41,Male,Mumbai,Mumbai,Maharashtra,India,USA,BP,Dry Cough,Positive
+41,Female,Bhavnagar,Bhavnagar,Gujarat,India,India,Diabetes,Null,Negative
+22,Female,Rana Pratap Bagh,Rana Pratap Bagh,Delhi,India,Dubai,Null,Dry Cough,Positive
+62,Female,Agra,Agra,Uttar Pradesh,India,Italy,Diabetes,Fever,Positive
+52,Female,Erode,Erode,Tamil Nadu,India,India,Diabetes,Fever,Negative
+41,Female,Pune,Pune,Maharashtra,India,London,BP,Dry Cough,Positive
+27,Male,Mumbai City,Mumbai City,Maharashtra,India,India,Null,Fever,Positive
+41,Female,Navi Mumbai,Navi Mumbai,Maharashtra,India,Dubai,Diabetes,Fever,Positive
+23,Female,Imphal,Imphal West,Manipur,India,Kerala,Null,Fever,Positive
+41,Male,Alappuzha,Alappuzha,Kerala,India,Dubai,Diabetes,Fever,Positive
+41,Female,North East Delhi,North East Delhi,Delhi,India,India,Diabetes,Null,Negative
+41,Female,Delhi,Delhi,Delhi,India,UK,BP,Dry Cough,Positive
+25,Male,Bengaluru,Bengaluru,Karnataka,India,Portugal,Null,Dry Cough,Positive
+41,Male,Indore,Indore,Madhya Pradesh,India,Saudi Arabia,Diabetes,Fever,Positive
+24,Male,Ongole,Prakasam,Andhra Pradesh,India,India,Null,Dry Cough,Positive
+59,Female,Bengaluru,Bengaluru,Karnataka,India,Saudi Arabia,Diabetes,Fever,Positive
+41,Male,Chitrakoot,Chitrakoot,Madhya Pradesh,India,India,Diabetes,Sore Throat,Negative
+33,Male,Bebusarai,Bebusarai,Bihar,India,India,Null,Null,Negative
+22,Male,Vijayawada,Vijayawada,Andhra Pradesh,India,London,Null,Dry Cough,Positive
+33,Male,Hisar,Hisar,Haryana,India,India,Null,Null,Negative
+24,Male,Patna,Patna,Bihar,India,India,Null,Fever,Positive
+3,Male,Mumbai,Mumbai,Maharashtra,India,Dubai,Null,Dry Cough,Positive
+41,Female,Bhilwara,Bhilwara,Rajasthan,India,UK,BP,Dry Cough,Positive
+41,Male,Chuchot,Leh,Ladakh,India,India,BP,Sore Throat,Positive
+37,Male,Bebusarai,Bebusarai,Bihar,India,India,Null,Null,Negative
+41,Female,Kannur,Kannur,Kerala,India,India,BP,Dry Cough,Positive
+28,Male,Mumbai,Mumbai,Maharashtra,India,India,Null,Null,Negative
+63,Male,Kalaburagi,Kalaburagi,Karnataka,India,India,Diabetes,Dry Cough,Positive
+45,Male,Bhopal,Bhopal,Madhya Pradesh,India,India,Diabetes,Null,Negative
+41,Female,Chusot,Leh,Ladakh,India,India,BP,Dry Cough,Positive
+44,Male,Mumbai,Mumbai,Maharashtra,India,Dubai,BP,Dry Cough,Positive
+41,Female,Banaras,Banaras,Uttar Pradesh,India,India,Diabetes,Sore Throat,Negative
+62,Male,Kollam,Kollam,Kerala,India,India,BP,Null,Negative
+34,Male,Kasaragod,Kasaragod,Kerala,India,Sweden,Null,Dry Cough,Positive
+65,Male,Ladakh,Leh,Ladakh,India,Iran,Diabetes,Fever,Positive
+65,Female,Ujjain,Ujjain,Madhya Pradesh,India,Dubai,BP,Fever,Positive
+41,Male,Palakkad,Palakkad,Kerala,India,Indigo,Diabetes,Fever,Positive
+41,Female,Bhavnagar,Bhavnagar,Gujarat,India,India,Diabetes,Null,Negative
+32,Male,Kasaragod,Kasaragod,Kerala,India,New Delhi,Null,Dry Cough,Positive
+41,Female,Shaheed Bhagat Singh Nagar,Shaheed Bhagat Singh Nagar,Punjab,India,India,BP,Dry Cough,Positive
+23,Female,Chandigarh,Chandigarh,Chandigarh,India,Karimnagar,Null,Dry Cough,Positive
+41,Male,Banaras,Banaras,Uttar Pradesh,India,India,Diabetes,Sore Throat,Negative
+27,Female,Kasaragod,Kasaragod,Kerala,India,Dubai,Null,Dry Cough,Positive
+29,Female,Alirajpur,Alirajpur,Madhya Pradesh,India,India,Null,Null,Negative
+25,Female,Raipur,Raipur,Chhattisgarh,India,India,Null,Fever,Positive
+58,Female,Bebusarai,Bebusarai,Bihar,India,India,Diabetes,Sore Throat,Negative
+33,Male,Mumbai,Mumbai,Maharashtra,India,Thailand,Null,Dry Cough,Positive
+41,Female,Pune,Pune,Maharashtra,India,USA,Diabetes,Fever,Positive
+61,Female,Ranni,Pathanamthitta,Kerala,India,Italy,Diabetes,Breathing Problem,Positive
+58,Male,Kareemnagar,Kareemnagar,Telangana,India,India,Diabetes,Null,Negative
+41,Female,Varkala,Thiruvananthapuram,Kerala,Italy,India,BP,Dry Cough,Positive
+57,Female,Ahmedabad,Ahmedabad,Gujarat,India,Patna,BP,Dry Cough,Positive
+60,Male,Bebusarai,Bebusarai,Bihar,India,India,BP,Null,Negative
+41,Female,Kannur,Kannur,Kerala,India,India,BP,Dry Cough,Positive
+36,Male,Shashtri Nagar,Jodhpur,Rajasthan,India,Dubai,Null,Dry Cough,Positive
+63,Male,Chennai,Chennai,Tamil Nadu,India,India,BP,Dry Cough,Positive
+41,Female,Bastar,Bastar,Chhattisgarh,India,India,Diabetes,Null,Negative
+35,Female,Kolasib,Kolasib,Mizoram,India,India,Null,Null,Negative
+41,Male,Rayalseema,Rayalseema,Andhra Pradesh,India,India,Diabetes,Null,Negative
+41,Female,Pune,Pune,Maharashtra,India,US,BP,Dry Cough,Positive
+41,Female,Bhilwara,Bhilwara,Rajasthan,India,UK,BP,Dry Cough,Positive
+41,Male,Phillaur,Jalandhar,Punjab,India,Dubai,Diabetes,Fever,Positive
+41,Female,Delhi,Delhi,Delhi,India,UK,BP,Dry Cough,Positive
+41,Female,Shaheed Bhagat Singh Nagar,Shaheed Bhagat Singh Nagar,Punjab,India,Dubai,BP,Dry Cough,Positive
+31,Male,Bhubaneswar,Bhubaneswar,Odisha,India,Italy,Null,Dry Cough,Positive
+50,Female,Birbhum,Birbhum,West Bengal,India,India,Diabetes,Fever,Negative
+41,Female,Bebusarai,Bebusarai,Bihar,India,India,Diabetes,Sore Throat,Negative
+27,Male,Bengaluru,Bengaluru,Karnataka,India,Dubai,Null,Dry Cough,Positive
+69,Female,Mohali,Sahibzada Ajit Singh Nagar,Punjab,India,Italy,Diabetes,Dry Cough,Positive
+27,Male,Rayalseema,Rayalseema,Andhra Pradesh,India,India,Null,Null,Negative
+42,Female,North East Delhi,North East Delhi,Delhi,India,India,Diabetes,Null,Negative
+40,Male,Kasaragod,Kasaragod,Kerala,India,Sweden,BP,Dry Cough,Positive
+22,Male,Kareemnagar,Kareemnagar,Telangana,India,India,Null,Null,Negative
+65,Male,Mumbai,Mumbai,Maharashtra,India,Dubai,Diabetes,Sore Throat,Positive
+32,Female,Bebusarai,Bebusarai,Bihar,India,India,Null,Null,Negative
+21,Female,Kolasib,Kolasib,Mizoram,India,India,Null,Null,Negative
+50,Female,Kasaragod,Kasaragod,Kerala,India,Dubai,BP,Dry Cough,Positive
+24,Male,Solapur,Solapur,Maharashtra,India,India,Null,Null,Negative
+41,Female,Jhunjhunu,Jhunjhunu,Rajasthan,India,India,Diabetes,Dry Cough,Positive
+41,Female,Bhavnagar,Bhavnagar,Gujarat,India,India,Diabetes,Null,Negative
+41,Male,Rayalseema,Rayalseema,Andhra Pradesh,India,India,Diabetes,Null,Negative
+30,Male,Varanasi,Varanasi,Uttar Pradesh,India,India,Null,Dry Cough,Positive
+18,Male,Bebusarai,Bebusarai,Bihar,India,India,Null,Null,Negative
+56,Female,Bengaluru,Bengaluru,Karnataka,India,Lisbon,BP,Dry Cough,Positive
+52,Female,Bengaluru,Bengaluru,Karnataka,India,India,Diabetes,Null,Negative
+26,Female,Erode,Erode,Tamil Nadu,India,India,Null,Null,Negative
+41,Female,Ahmedabad,Ahmedabad,Gujarat,India,India,BP,Dry Cough,Positive
+26,Male,Bengaluru,Bengaluru,Karnataka,India,Switzerland,Null,Sore Throat,Positive
+41,Female,Kolasib,Kolasib,Mizoram,India,India,Diabetes,Null,Negative
+66,Male,Kolkata,Kolkata,West Bengal,India,India,BP,Fever,Positive
+41,Male,Bhatinda,Bhatinda,Punjab,India,India,Diabetes,Null,Negative
+51,Female,Bhavnagar,Bhavnagar,Gujarat,India,India,Diabetes,Null,Negative
+40,Female,Nawanshahr,Shaheed Bhagat Singh Nagar,Punjab,India,Dubai,BP,Dry Cough,Positive
+41,Male,Pune,Pune,Maharashtra,India,India,BP,Sore Throat,Positive
+69,Male,Surat,Surat,Gujarat,India,UK,Diabetes,Dry Cough,Positive
+41,Male,Bebusarai,Bebusarai,Bihar,India,India,Diabetes,Null,Negative
+35,Male,Hisar,Hisar,Haryana,India,India,Null,Null,Negative
+27,Male,Kasaragod,Kasaragod,Kerala,India,New Delhi,Null,Dry Cough,Positive
+41,Male,Mumbai,Mumbai,Maharashtra,India,Dubai,Diabetes,Fever,Positive
+53,Female,Bengaluru,Bengaluru,Karnataka,India,India,BP,Dry Cough,Positive
+20,Female,Thrissur,Thrissur,Kerala,India,Wuhan,Null,Fever,Positive
+31,Male,Kasaragod,Kasaragod,Kerala,India,India,Null,Dry Cough,Positive
+27,Male,Ghaziabad,Ghaziabad,Uttar Pradesh,India,India,Null,Dry Cough,Positive
+41,Male,Mumbai,Mumbai,Maharashtra,India,South Africa,BP,Dry Cough,Positive
+41,Female,Delhi,Delhi,Delhi,India,Delhi,BP,Dry Cough,Positive
+34,Male,Erode,Erode,Tamil Nadu,India,India,Null,Fever,Negative
+41,Male,Sangli,Sangli,Maharashtra,India,Tanda,Diabetes,Fever,Positive
+52,Female,Bengaluru,Bengaluru,Karnataka,India,India,Diabetes,Null,Negative
+41,Female,Yavatmal,Yavatmal,Maharashtra,India,Switzerland,BP,Dry Cough,Positive
+41,Female,Shaheed Bhagat Singh Nagar,Shaheed Bhagat Singh Nagar,Punjab,India,Dubai,BP,Dry Cough,Positive
+41,Female,Satna,Satna,Madhya Pradesh,India,India,Diabetes,Null,Negative
+41,Female,Bhilwara,Bhilwara,Rajasthan,India,Spain,BP,Dry Cough,Positive
+41,Female,Pune,Pune,Maharashtra,India,UK,BP,Dry Cough,Positive
+24,Female,Raipur,Raipur,Chhattisgarh,India,France,Null,Dry Cough,Positive
+41,Female,Satna,Satna,Madhya Pradesh,India,India,Diabetes,Sore Throat,Negative
+41,Male,Thane,Thane,Maharashtra,India,Saudi Arabia,Diabetes,Fever,Positive
+39,Female,Chandanagar,Ranga Reddy,Telangana,India,New York,Null,Fever,Positive
+19,Male,Hisar,Hisar,Haryana,India,India,Null,Null,Negative
+41,Female,Bagalkot,Bagalkot,Karnataka,India,India,Diabetes,Null,Negative
+62,Female,Kalyan,Kalyan,Maharashtra,India,Qatar,BP,Fever,Positive
+41,Female,Bhilwara,Bhilwara,Rajasthan,India,India,BP,Dry Cough,Positive
+41,Male,Kolasib,Kolasib,Mizoram,India,India,Diabetes,Null,Negative
+41,Female,Delhi,Delhi,Delhi,India,India,BP,Dry Cough,Positive
+41,Female,Bhilwara,Bhilwara,Rajasthan,India,UK,BP,Dry Cough,Positive
+41,Male,Kareemnagar,Kareemnagar,Telangana,India,India,Diabetes,Null,Negative
+41,Male,Munnar,Idukki,Kerala,United Kingdom,India,BP,Dry Cough,Positive
+41,Female,Saket,Saket,Delhi,India,Kazakhstan,BP,Dry Cough,Positive
+41,Female,Bebusarai,Bebusarai,Bihar,India,India,Diabetes,Sore Throat,Negative
+41,Female,Ahmednagar,Ahmadnagar,Maharashtra,India,France,BP,Dry Cough,Positive
+41,Female,Bebusarai,Bebusarai,Bihar,India,India,Diabetes,Sore Throat,Negative
+41,Male,Sangli,Sangli,Maharashtra,India,Saudi Arabia,Diabetes,Fever,Positive
+25,Male,Lucknow,Lucknow,Uttar Pradesh,India,India,Null,Dry Cough,Positive
+41,Male,Srinagar,Srinagar,Jammu and Kashmir,India,Dubai,Diabetes,Fever,Positive
+41,Male,Kolasib,Kolasib,Mizoram,India,India,Diabetes,Null,Negative
+76,Male,Kalaburagi,Kalaburagi,Karnataka,India,Italy,Diabetes,Sore Throat,Positive
+34,Male,Nawanshahr,Shaheed Bhagat Singh Nagar,Punjab,India,Dubai,Null,Dry Cough,Positive
+41,Female,Bhilwara,Bhilwara,Rajasthan,India,Mumbai,BP,Dry Cough,Positive
+41,Female,Lucknow,Lucknow,Uttar Pradesh,India,India,Diabetes,Null,Negative
+41,Male,Rayalseema,Rayalseema,Andhra Pradesh,India,India,Diabetes,Null,Negative
+96,Male,Ranni,Pathanamthitta,Kerala,India,India,Diabetes,Breathing Problem,Positive
+41,Female,Yavatmal,Yavatmal,Maharashtra,India,US,BP,Dry Cough,Positive
+38,Male,Mumbai,Mumbai,Maharashtra,India,India,Null,Dry Cough,Positive
+25,Male,Chennai,Chennai,Tamil Nadu,India,India,Null,Fever,Positive
+41,Female,Jammu,Jammu,Jammu and Kashmir,India,Mumbai,BP,Dry Cough,Positive
+28,Female,Mumbai,Mumbai,Maharashtra,India,India,Null,Null,Negative
+41,Female,Gandhinagar,Gandhinagar,Gujarat,India,Dubai,Diabetes,Fever,Positive
+68,Female,Mumbai,Mumbai,Maharashtra,India,Italy,Diabetes,Dry Cough,Positive
+41,Male,Kolkata,Kolkata,West Bengal,India,UK,BP,Dry Cough,Positive
+38,Male,Bebusarai,Bebusarai,Bihar,India,India,Null,Null,Negative
+41,Male,Leh,Leh,Ladakh,India,Spain,BP,Dry Cough,Positive
+41,Female,Bastar,Bastar,Chhattisgarh,India,India,Diabetes,Null,Negative
+26,Male,Balasore,Balasore,Orissa,India,India,Null,Null,Negative
+41,Female,Bebusarai,Bebusarai,Bihar,India,India,Diabetes,Null,Negative
+41,Male,Kasaragod,Kasaragod,Kerala,India,New Zealand,BP,Dry Cough,Positive
+32,Female,Ajmer,Ajmer,Rajasthan,India,India,Null,Null,Negative
+20,Male,Somajiguda,Hyderabad,Telangana,India,India,Null,Dry Cough,Positive
+41,Male,Mumbai,Mumbai,Maharashtra,India,India,BP,Dry Cough,Positive
+25,Male,Bebusarai,Bebusarai,Bihar,India,India,Null,Sore Throat,Negative
+29,Male,Goa,Goa,Goa,India,India,Null,Fever,Positive
+59,Male,Ghaziabad,Ghaziabad,Uttar Pradesh,India,Italy,BP,Fever,Positive
+43,Male,Nagpur,Nagpur,Maharashtra,India,Varkala,BP,Dry Cough,Positive
+41,Male,Mohali,Pratapgarh ,Rajasthan,India,India,BP,Dry Cough,Positive
+41,Male,Wayanad,Wayanad,Kerala,India,India,Diabetes,Null,Negative
+54,Female,Gandhinagar,Gandhinagar,Gujarat,India,India,Diabetes,Fever,Positive
+41,Female,Yavatmal,Yavatmal,Maharashtra,India,India,BP,Dry Cough,Positive
+27,Male,Kozhikode,Kozhikode,Kerala,India,Dubai,Null,Dry Cough,Positive
+41,Female,Leh,Leh,Ladakh,India,India,BP,Dry Cough,Positive
+41,Male,Dehradun,Dehradun,Uttarakhand,India,India,BP,Dry Cough,Positive
+25,Male,Solapur,Solapur,Maharashtra,India,India,Null,Fever,Negative
+41,Male,Malappuram,Malappuram,Kerala,India,India,BP,Dry Cough,Positive
+47,Male,Bebusarai,Bebusarai,Bihar,India,India,Diabetes,Null,Negative
+35,Male,Jaunpur,Jaunpur,Uttar Pradesh,India,India,Null,Fever,Positive
+41,Female,Kannur,Kannur,Kerala,India,India,BP,Dry Cough,Positive
+41,Female,Pune,Pune,Maharashtra,India,India,BP,Sore Throat,Positive
+21,Female,Bhavnagar,Bhavnagar,Gujarat,India,India,Null,Null,Negative
+37,Male,Kasaragod,Kasaragod,Kerala,India,London,Null,Dry Cough,Positive
+27,Female,Vadodara,Vadodara,Gujarat,India,UK,Null,Dry Cough,Positive
+41,Female,North East Delhi,North East Delhi,Delhi,India,India,Diabetes,Null,Negative
+69,Female,Chitrakoot,Chitrakoot,Madhya Pradesh,India,India,BP,Sore Throat,Negative
+62,Female,Agra,Agra,Uttar Pradesh,India,Italy,Diabetes,Fever,Positive
+41,Male,Kochi,Ernakulam,Kerala,United Kingdom,India,BP,Dry Cough,Positive
+41,Female,Shaheed Bhagat Singh Nagar,Shaheed Bhagat Singh Nagar,Punjab,India,India,BP,Dry Cough,Positive
+40,Male,Lucknow,Lucknow,Uttar Pradesh,India,India,Diabetes,Null,Negative
+68,Female,Satna,Satna,Madhya Pradesh,India,India,BP,Sore Throat,Negative
+41,Female,Hyderabad,Hyderabad,Telangana,Indonesia,India,BP,Dry Cough,Positive
+54,Male,Kasaragod,Kasaragod,Kerala,India,India,BP,Dry Cough,Positive
+35,Male,Hyderabad,Hyderabad,Telangana,India,India,Null,Dry Cough,Positive
+41,Female,Satna,Satna,Madhya Pradesh,India,India,Diabetes,Null,Negative
+41,Female,Banaras,Banaras,Uttar Pradesh,India,India,Diabetes,Sore Throat,Negative
+41,Male,Bebusarai,Bebusarai,Bihar,India,India,Diabetes,Null,Negative
+41,Female,Satna,Satna,Madhya Pradesh,India,India,Diabetes,Null,Negative
+25,Male,Wayanad,Wayanad,Kerala,India,India,Null,Null,Negative
+35,Male,Bhopal,Bhopal,Madhya Pradesh,India,India,Null,Null,Negative
+41,Male,Dehradun,Dehradun,Uttarakhand,India,Indonesia,BP,Dry Cough,Positive
+41,Female,Bebusarai,Bebusarai,Bihar,India,India,Diabetes,Null,Negative
+41,Male,Patna,Patna,Bihar,India,India,Diabetes,Fever,Positive
+41,Female,Kasaragod,Kasaragod,Kerala,India,Dubai,BP,Dry Cough,Positive
+41,Female,Ernakulam,Ernakulam,Kerala,India,India,BP,Dry Cough,Positive
+48,Male,Agra,Agra,Uttar Pradesh,India,US,BP,Breathing Problem,Positive
+63,Male,Salem,Salem,Tamil Nadu,India,France,BP,Fever,Positive
+67,Female,Birbhum,Birbhum,West Bengal,India,India,BP,Null,Negative
+41,Female,Shivpuri,Shivpuri,Madhya Pradesh,India,India,Diabetes,Fever,Positive
+69,Male,Perundurai,Erode,Tamil Nadu,Thailand,Dubai,Diabetes,Dry Cough,Positive
+24,Male,Bengaluru,Bengaluru,Karnataka,India,India,Null,Dry Cough,Positive
+41,Female,Lucknow,Lucknow,Uttar Pradesh,India,India,Diabetes,Null,Negative
+38,Female,Ajmer,Ajmer,Rajasthan,India,India,Null,Null,Negative
+41,Male,Delhi,Delhi,Delhi,India,USA,Diabetes,Fever,Positive
+41,Male,Kargil,Kargil,Ladakh,India,Dubai,BP,Dry Cough,Positive
+21,Female,Kasaragod,Kasaragod,Kerala,India,Dubai,Null,Dry Cough,Positive
+69,Male,Hisar,Hisar,Haryana,India,India,BP,Null,Negative
+41,Female,Jabalpur,Jabalpur,Madhya Pradesh,India,India,Diabetes,Fever,Positive
+41,Male,Pimpri-Chinchwad,Pune,Maharashtra,India,Philippines,BP,Dry Cough,Positive
+61,Female,Bhavnagar,Bhavnagar,Gujarat,India,India,BP,Null,Negative
+33,Male,Wayanad,Wayanad,Kerala,India,India,Null,Null,Negative
+41,Male,Kaushambi,Ghaziabad,Uttar Pradesh,India,Dubai,BP,Fever,Positive
+44,Female,Birbhum,Birbhum,West Bengal,India,India,Diabetes,Fever,Negative
+41,Male,Pune,Pune,Maharashtra,India,Dubai,BP,Fever,Positive
+41,Female,Malappuram,Malappuram,Kerala,India,Dubai,BP,Dry Cough,Positive
+45,Male,Nagpur,Nagpur,Maharashtra,India,Dubai,BP,Sore Throat,Positive
+18,Female,Hyderabad,Hyderabad,Telangana,India,Dublin,Null,Dry Cough,Positive
+41,Female,Mumbai,Mumbai,Maharashtra,India,India,BP,Dry Cough,Positive
+13,Female,Lucknow,Lucknow,Uttar Pradesh,India,India,Null,Null,Negative
+22,Male,Kolkata,Kolkata,West Bengal,India,Italy,Null,Dry Cough,Positive
+27,Male,Bagalkot,Bagalkot,Karnataka,India,India,Null,Null,Negative
+33,Male,Bhopal,Bhopal,Madhya Pradesh,India,India,Null,Null,Negative
+41,Female,Hyderabad,Hyderabad,Telangana,India,Dubai,BP,Dry Cough,Positive
+41,Male,Kolasib,Kolasib,Mizoram,India,India,Diabetes,Null,Negative
+3,Female,Bebusarai,Bebusarai,Bihar,India,India,Null,Null,Negative
+41,Male,Kasargod,Kasargod,Kerala,India,Dubai,Diabetes,Fever,Positive
+41,Male,Delhi,Delhi,Delhi,India,Singapore,Diabetes,Fever,Positive
+85,Female,Ahmedabad,Ahmedabad,Gujarat,India,UK,Diabetes,Dry Cough,Positive
+26,Female,Bhopal,Bhopal,Madhya Pradesh,India,Phuket,Null,Dry Cough,Positive
+41,Male,Sangli,Sangli,Maharashtra,India,Singapore,BP,Dry Cough,Positive
+17,Female,Hisar,Hisar,Haryana,India,India,Null,Null,Negative
+41,Female,Pune,Pune,Maharashtra,India,India,BP,Breathing Problem,Positive
+41,Male,Pune,Pune,Maharashtra,India,Pune,BP,Sore Throat,Positive
+41,Female,Sangli,Sangli,Maharashtra,India,India,Diabetes,Fever,Positive
+41,Female,Bagalkot,Bagalkot,Karnataka,India,India,Diabetes,Null,Negative
+22,Female,Mumbai,Mumbai,Maharashtra,India,Hyderabad,Null,Dry Cough,Positive
+41,Male,North East Delhi,North East Delhi,Delhi,India,India,Diabetes,Null,Negative
+3,Female,Jhunjhunu,Jhunjhunu,Rajasthan,India,Iran,Null,Dry Cough,Positive
+52,Female,Faridabad,Faridabad,Haryana,India,UK,BP,Dry Cough,Positive
+41,Male,Bagalkot,Bagalkot,Karnataka,India,India,Diabetes,Null,Negative
+28,Male,Erode,Erode,Tamil Nadu,India,India,Null,Fever,Negative
+41,Male,Mumbai,Mumbai,Maharashtra,India,Dubai,Diabetes,Fever,Positive
+41,Female,Ajmer,Ajmer,Rajasthan,India,India,Diabetes,Null,Negative
+41,Male,Mumbai,Mumbai,Maharashtra,India,India,BP,Dry Cough,Positive
+41,Female,Pune,Pune,Maharashtra,India,Pune,BP,Sore Throat,Positive
+37,Female,Bhatinda,Bhatinda,Punjab,India,India,Null,Null,Negative
+41,Female,Kannur,Kannur,Kerala,India,Congo,BP,Dry Cough,Positive
+41,Female,Satara,Satara,Maharashtra,India,Saudi Arabia,BP,Fever,Positive
+58,Male,Ahmedabad,Ahmedabad,Gujarat,India,Kolkata,BP,Dry Cough,Positive
+56,Male,Kukatpally,Hyderabad,Telangana,India,UK,BP,Dry Cough,Positive
+61,Male,Kochi,Ernakulam,Kerala,United Kingdom,Gowribidanur,Diabetes,Dry Cough,Positive
+21,Male,Chennai,Chennai,Tamil Nadu,India,France,Null,Dry Cough,Positive
+33,Male,Hyderabad,Hyderabad,Telangana,India,UK,Null,Dry Cough,Positive
+59,Female,Mumbai,Mumbai,Maharashtra,India,India,BP,Dry Cough,Positive
+41,Female,Kasaragod,Kasaragod,Kerala,India,New Delhi,BP,Dry Cough,Positive
+41,Male,Kochi,Kannur,Kerala,India,Hindupur,BP,Dry Cough,Positive
+34,Male,Hyderabad,Hyderabad,Telangana,India,India,Null,Dry Cough,Positive
+23,Female,Sonepat,Sonepat,Haryana,India,UK,Null,Dry Cough,Positive
+26,Female,Chitrakoot,Chitrakoot,Madhya Pradesh,India,India,Null,Sore Throat,Negative
+41,Female,Mumbai,Mumbai,Maharashtra,India,India,BP,Dry Cough,Positive
+21,Male,Mumbai Suburb,Mumbai Suburb,Maharashtra,India,India,Null,Dry Cough,Positive
+55,Male,Gurugram,Gurugram,Haryana,Italy,Italy,BP,Fever,Positive
+27,Female,Kollam,Kollam,Kerala,India,India,Null,Null,Negative
+36,Female,Hisar,Hisar,Haryana,India,India,Null,Null,Negative
+41,Male,Amritsar,Amritsar,Punjab,Italy,Iran,BP,Breathing Problem,Positive
+41,Female,Bebusarai,Bebusarai,Bihar,India,India,Diabetes,Null,Negative
+41,Female,Jaipur,Jaipur,Rajasthan,India,Singapore,BP,Dry Cough,Positive
+33,Male,Kannur,Kannur,Kerala,India,India,Null,Breathing Problem,Positive
+41,Female,Kozhencherry,Pathanamthitta,Kerala,India,Italy,BP,Breathing Problem,Positive
+25,Male,Solapur,Solapur,Maharashtra,India,India,Null,Fever,Negative
+24,Male,Kadalundi,Malappuram,Kerala,India,India,Null,Dry Cough,Positive
+36,Female,Nawanshahr,Shaheed Bhagat Singh Nagar,Punjab,India,Germany,Null,Dry Cough,Positive
+41,Male,Bebusarai,Bebusarai,Bihar,India,India,Diabetes,Null,Negative
+24,Female,Bebusarai,Bebusarai,Bihar,India,India,Null,Null,Negative
+69,Male,Jaipur,Jaipur,Rajasthan,Italy,Italy,Diabetes,Fever,Positive
+37,Male,Lucknow,Lucknow,Uttar Pradesh,India,Dubai,Null,Dry Cough,Positive
+41,Female,Bebusarai,Bebusarai,Bihar,India,India,Diabetes,Null,Negative
+41,Male,Mumbai,Mumbai,Maharashtra,India,Istanbul,BP,Dry Cough,Positive
+41,Female,Bebusarai,Bebusarai,Bihar,India,India,Diabetes,Null,Negative
+26,Male,Dugadda,Pauri,Uttarakhand,India,India,Null,Fever,Positive
+41,Female,Mumbai,Mumbai,Maharashtra,India,UK,BP,Dry Cough,Positive
+41,Female,Kolasib,Kolasib,Mizoram,India,India,Diabetes,Null,Negative
+49,Male,Mumbai,Mumbai,Maharashtra,India,US,BP,Dry Cough,Positive
+41,Male,Alirajpur,Alirajpur,Madhya Pradesh,India,India,Diabetes,Null,Negative
+53,Male,Jabalpur,Jabalpur,Madhya Pradesh,India,Saudi Arabia,BP,Dry Cough,Positive
+41,Male,Kochi,Ernakulam,Kerala,India,India,BP,Breathing Problem,Positive
+41,Female,Kannur,Kannur,Kerala,India,India,BP,Dry Cough,Positive
+41,Female,Bagalkot,Bagalkot,Karnataka,India,India,Diabetes,Null,Negative
+24,Male,Hyderabad,Hyderabad,Telangana,India,India,Null,Dry Cough,Positive
+41,Female,Kottayam,Kottayam,Kerala,India,UK,Diabetes,Fever,Positive
+55,Female,Solapur,Solapur,Maharashtra,India,India,Diabetes,Null,Negative
+41,Male,Noida,Gautam Buddha Nagar,Uttar Pradesh,India,United Kingdom,BP,Dry Cough,Positive
+41,Male,Delhi,Delhi,Delhi,India,Greece,BP,Dry Cough,Positive
+68,Female,Mahe,Mahe,Puducherry,India,India,Diabetes,Dry Cough,Positive
+41,Female,Kochi,Ernakulam,Kerala,India,India,BP,Breathing Problem,Positive
+24,Male,Hyderabad,Hyderabad,Telangana,India,Italy,Null,Fever,Positive
+41,Male,Wayanad,Wayanad,Kerala,India,India,Diabetes,Null,Negative
+41,Female,Alirajpur,Alirajpur,Madhya Pradesh,India,India,Diabetes,Null,Negative
+41,Male,Kasaragod,Kasaragod,Kerala,India,India,BP,Dry Cough,Positive
+41,Male,Idukki,Idukki,Kerala,India,India,Diabetes,Fever,Positive
+64,Female,Manikonda,Hyderabad,Telangana,India,UK,BP,Fever,Positive
+56,Female,Kolkata,Kolkata,West Bengal,India,India,Diabetes,Fever,Positive
+41,Male,Ajmer,Ajmer,Rajasthan,India,India,Diabetes,Null,Negative
+46,Male,Mysuru,Mysuru,Karnataka,India,Spain,BP,Dry Cough,Positive
+41,Female,Balasore,Balasore,Orissa,India,India,Diabetes,Null,Negative
+26,Male,Hyderabad,Hyderabad,Telangana,India,Chennai,Null,Dry Cough,Positive
+35,Male,Bebusarai,Bebusarai,Bihar,India,India,Null,Null,Negative
+41,Female,Mumbai,Mumbai,Maharashtra,India,India,BP,Dry Cough,Positive
+41,Female,Patna,Patna,Bihar,India,India,BP,Dry Cough,Positive
+41,Male,Hyderabad,Hyderabad,Telangana,Indonesia,US,BP,Dry Cough,Positive
+41,Male,Mumbai,Mumbai,Maharashtra,India,India,BP,Dry Cough,Positive
+49,Male,Kokapet,Ranga Reddy,Telangana,India,India,Diabetes,Fever,Positive
+37,Male,Greater Noida,Gautam Buddh Nagar,Uttar Pradesh,India,UK,Null,Dry Cough,Positive
+41,Female,Jaipur,Jaipur,Rajasthan,India,India,BP,Dry Cough,Positive
+41,Male,Chengalam,Kottayam,Kerala,India,India,BP,Breathing Problem,Positive
+41,Female,Alirajpur,Alirajpur,Madhya Pradesh,India,India,Diabetes,Null,Negative
+41,Male,Palakkad,Palakkad,Kerala,India,Dubai,Diabetes,Fever,Positive
+64,Male,Navi Mumbai,Navi Mumbai,Maharashtra,India,Dubai,BP,Fever,Positive
+41,Male,Bebusarai,Bebusarai,Bihar,India,India,Diabetes,Null,Negative
+26,Male,Bengaluru,Bengaluru,Karnataka,India,India,Null,Fever,Positive
+65,Female,Indore,Indore,Madhya Pradesh,India,India,BP,Fever,Negative
+41,Male,Pathanamthitta,Pathanamthitta,Kerala,India,Saudi Arabia,Diabetes,Fever,Positive
+41,Male,Bandipora,Bandipora,Jammu and Kashmir,India,India,Diabetes,Fever,Positive
+41,Male,Alirajpur,Alirajpur,Madhya Pradesh,India,India,Diabetes,Null,Negative
+41,Male,Bebusarai,Bebusarai,Bihar,India,India,Diabetes,Null,Negative
+41,Male,Kochi,Kannur,Kerala,India,Saudi Arabia,BP,Dry Cough,Positive
+41,Female,Leh,Leh,Ladakh,India,India,BP,Dry Cough,Positive
+24,Male,Rayalseema,Rayalseema,Andhra Pradesh,India,India,Null,Null,Negative
+41,Male,Amritsar,Amritsar,Punjab,India,Dubai,Diabetes,Fever,Positive
+41,Female,Kolkata,Kolkata,West Bengal,India,India,BP,Dry Cough,Positive
+74,Male,Porur,Chennai,Tamil Nadu,India,France,BP,Fever,Positive
+41,Female,Hyderabad,Hyderabad,Telangana,India,India,Diabetes,Null,Negative
+19,Female,Bhavnagar,Bhavnagar,Gujarat,India,India,Null,Null,Negative
+41,Male,Dehradun,Dehradun,Uttarakhand,India,US,BP,Dry Cough,Positive
+18,Male,Kolkata,Kolkata,West Bengal,India,Philippines,Null,Dry Cough,Positive
+57,Male,Bhadradri Kothagudem,Bhadradri Kothagudem,Telangana,India,India,Diabetes,Fever,Positive
+64,Female,Chennai,Chennai,Tamil Nadu,India,UK,Diabetes,Dry Cough,Positive
+41,Female,Bhilwara,Bhilwara,Rajasthan,India,Turkey,BP,Dry Cough,Positive
+41,Female,Shaheed Bhagat Singh Nagar,Shaheed Bhagat Singh Nagar,Punjab,India,France,BP,Dry Cough,Positive
+41,Male,Kareemnagar,Kareemnagar,Telangana,India,India,Diabetes,Null,Negative
+47,Female,Bhavnagar,Bhavnagar,Gujarat,India,India,Diabetes,Null,Negative
+47,Male,Noida,Gautam Buddh Nagar,Uttar Pradesh,India,Dubai,Diabetes,Fever,Positive
+20,Female,Birbhum,Birbhum,West Bengal,India,India,Null,Fever,Negative
+32,Male,Mangaluru,Dakshina Kannada,Karnataka,India,India,Null,Fever,Positive
+60,Male,Karimnagar,Karimnagar,Telangana,Indonesia,India,Diabetes,Dry Cough,Positive
+41,Male,Indore,Indore,Madhya Pradesh,India,Saudi Arabia,Diabetes,Fever,Positive
+41,Male,Palwal,Palwal,Haryana,India,Delhi,BP,Dry Cough,Positive
+59,Male,Jabalpur,Jabalpur,Madhya Pradesh,India,UK,BP,Dry Cough,Positive
+26,Female,Kasaragod,Kasaragod,Kerala,India,Dubai,Null,Dry Cough,Positive
+41,Female,Rajouri,Jammu,Jammu and Kashmir,India,Dubai,BP,Dry Cough,Positive
+45,Male,Rayalseema,Rayalseema,Andhra Pradesh,India,India,Diabetes,Null,Negative
+24,Female,Bebusarai,Bebusarai,Bihar,India,India,Null,Sore Throat,Negative
+41,Male,Phillaur,Jalandhar,Punjab,India,Dubai,Diabetes,Fever,Positive
+22,Male,Ernakulam,Ernakulam,Kerala,India,India,Null,Fever,Positive
+41,Female,Bhilwara,Bhilwara,Rajasthan,India,Spain,BP,Dry Cough,Positive
+32,Male,Vengara,Malappuram,Kerala,India,India,Null,Dry Cough,Positive
+41,Female,Ahmedabad,Ahmedabad,Gujarat,India,India,Diabetes,Fever,Positive
+41,Male,Satna,Satna,Madhya Pradesh,India,India,Diabetes,Null,Negative
+22,Female,Bebusarai,Bebusarai,Bihar,India,India,Null,Null,Negative
+41,Male,Kasaragod,Kasaragod,Kerala,India,Spain,BP,Dry Cough,Positive
+45,Male,Kancheepuram,Chennai,Tamil Nadu,India,Iran,BP,Breathing Problem,Positive
+32,Male,Rajkot,Rajkot,Gujarat,India,India,Null,Dry Cough,Positive
+17,Male,Nawanshahr,Shaheed Bhagat Singh Nagar,Punjab,India,Thailand,Null,Dry Cough,Positive
+41,Male,Palakkad,Palakkad,Kerala,India,Dubai,Diabetes,Fever,Positive
+41,Male,Mumbai,Mumbai,Maharashtra,India,India,BP,Dry Cough,Positive
+41,Female,Faridabad,Faridabad,Haryana,India,Germany,Diabetes,Fever,Positive
+41,Female,Pune,Pune,Maharashtra,India,India,BP,Dry Cough,Positive
+30,Female,Bebusarai,Bebusarai,Bihar,India,India,Null,Null,Negative
+69,Male,Bengaluru,Bengaluru,Karnataka,India,Dubai,BP,Fever,Positive
+41,Male,Thiruvananthapuram,Thiruvananthapuram,Kerala,India,Dubai,BP,Dry Cough,Positive
+41,Male,Kochi,Ernakulam,Kerala,United Kingdom,Mumbai,BP,Dry Cough,Positive
+41,Female,Ahmedabad,Ahmedabad,Gujarat,India,India,BP,Dry Cough,Positive
+30,Male,Kasaragod,Kasaragod,Kerala,India,India,Null,Dry Cough,Positive
+41,Female,Bhavnagar,Bhavnagar,Gujarat,India,India,Diabetes,Null,Negative
+29,Female,Gurugram,Gurugram,Haryana,India,Japan,Null,Dry Cough,Positive
+49,Female,Mumbai,Mumbai,Maharashtra,India,Indonesia,BP,Dry Cough,Positive
+41,Female,Bebusarai,Bebusarai,Bihar,India,India,Diabetes,Sore Throat,Negative
+41,Female,Delhi,Delhi,Delhi,India,Spain,BP,Dry Cough,Positive
+41,Female,Bengaluru,Bengaluru,Karnataka,India,Italy,BP,Breathing Problem,Positive
+42,Male,Mumbai,Mumbai,Maharashtra,Phillipines,India,BP,Dry Cough,Positive
+41,Female,Kozhikode,Kozhikode,Kerala,India,Dubai,BP,Dry Cough,Positive
+21,Female,Ernakulam,Ernakulam,Kerala,India,Dubai,Null,Dry Cough,Positive
+52,Female,Kasaragod,Kasaragod,Kerala,India,Dubai,BP,Dry Cough,Positive
+41,Female,Jodhpur,Jodhpur,Rajasthan,India,India,Diabetes,Fever,Positive
+33,Male,Kasaragod,Kasaragod,Kerala,India,Singapore,Null,Dry Cough,Positive
+41,Male,Bebusarai,Bebusarai,Bihar,India,India,Diabetes,Sore Throat,Negative
+41,Female,Jaipur,Jaipur,Rajasthan,India,India,BP,Dry Cough,Positive
+41,Male,Bagalkot,Bagalkot,Karnataka,India,India,Diabetes,Null,Negative
+60,Male,North East Delhi,North East Delhi,Delhi,India,India,BP,Null,Negative
+24,Female,Ahmedabad,Ahmedabad,Gujarat,India,Dubai,Null,Dry Cough,Positive
+26,Female,Bagalkot,Bagalkot,Karnataka,India,India,Null,Null,Negative
+61,Female,Lakhimpur kheri,Lucknow,Uttar Pradesh,India,Iran,Diabetes,Dry Cough,Positive
+22,Male,Rayalseema,Rayalseema,Andhra Pradesh,India,India,Null,Null,Negative
+41,Female,Bhavnagar,Bhavnagar,Gujarat,India,India,Diabetes,Null,Negative
+41,Male,Kareemnagar,Kareemnagar,Telangana,India,India,Diabetes,Null,Negative
+41,Female,Pune,Pune,Maharashtra,India,Dubai,BP,Dry Cough,Positive
+48,Male,Banaras,Banaras,Uttar Pradesh,India,India,Diabetes,Null,Negative
+60,Male,Garhshankar,Hoshiarpur,Punjab,India,India,Diabetes,Dry Cough,Positive
+41,Female,Nedumangad,Thiruvananthapuram,Kerala,India,Dubai,BP,Dry Cough,Positive
+7,Female,Bengaluru,Bengaluru,Karnataka,India,Mangaluru,Null,Fever,Positive
+24,Male,Bhavnagar,Bhavnagar,Gujarat,India,India,Null,Null,Negative
+53,Male,Balasore,Balasore,Orissa,India,India,Diabetes,Null,Negative
+21,Female,Bengaluru,Bengaluru,Karnataka,India,India,Null,Null,Negative
+22,Female,Hyderabad,Hyderabad,Telangana,India,India,Null,Null,Negative
+27,Female,Chitrakoot,Chitrakoot,Madhya Pradesh,India,India,Null,Sore Throat,Negative
+21,Female,Gautam Buddh Nagar,Gautam Buddh Nagar,Uttar Pradesh,India,India,Null,Dry Cough,Positive
+20,Male,Bebusarai,Bebusarai,Bihar,India,India,Null,Null,Negative
+25,Female,Alappuzha,Alappuzha,Kerala,India,Wuhan,Null,Fever,Positive
+24,Female,Mumbai,Mumbai,Maharashtra,India,India,Null,Null,Negative
+41,Female,Panipat,Panipat,Haryana,India,Dubai,Diabetes,Fever,Positive
+41,Male,Delhi,Delhi,Delhi,India,Delhi,Diabetes,Fever,Positive
+21,Male,Bengaluru,Bengaluru,Karnataka,India,India,Null,Dry Cough,Positive
+41,Male,Mumbai,Mumbai,Maharashtra,India,Mumbai,Diabetes,Fever,Positive
+61,Male,Ahmedabad,Ahmedabad,Gujarat,India,Dubai,Diabetes,Dry Cough,Positive
+51,Male,Ahmednagar,Ahmednagar,Maharashtra,India,US,BP,Dry Cough,Positive
+23,Male,Karimnagar,Karimnagar,Telangana,India,India,Null,Dry Cough,Positive
+49,Female,Erode,Erode,Tamil Nadu,India,India,Diabetes,Null,Negative
+53,Female,Wayanad,Wayanad,Kerala,India,India,Diabetes,Sore Throat,Negative
+63,Male,Bengaluru,Bengaluru,Karnataka,India,Germany,BP,Fever,Positive
+41,Female,Thane,Thane,Maharashtra,India,India,BP,Dry Cough,Positive
+27,Female,Vishakhapatnam,Vishakhapatnam,Andhra Pradesh,India,India,Null,Null,Negative
+45,Female,Mumbai,Mumbai,Maharashtra,India,India,Diabetes,Null,Negative
+41,Female,Uttarakhand,Uttarakhand,Uttarakhand,India,Kozhikode,BP,Dry Cough,Positive
+24,Male,Vijayawada,Krishna,Andhra Pradesh,India,India,Null,Dry Cough,Positive
+41,Female,Kolkata,Kolkata,West Bengal,India,India,BP,Dry Cough,Positive
+41,Male,Kasargod,Kasargod,Kerala,India,Dubai,Diabetes,Fever,Positive
+41,Male,Vishakhapatnam,Vishakhapatnam,Andhra Pradesh,India,India,Diabetes,Null,Negative
+32,Female,Kasaragod,Kasaragod,Kerala,India,Dubai,Null,Dry Cough,Positive
+41,Female,Bastar,Bastar,Chhattisgarh,India,India,Diabetes,Null,Negative
+41,Male,Hyderabad,Hyderabad,Telangana,Indonesia,Dubai,BP,Dry Cough,Positive
+23,Male,Bebusarai,Bebusarai,Bihar,India,India,Null,Null,Negative
+41,Male,Sangli,Sangli,Maharashtra,India,India,Diabetes,Fever,Positive
+41,Female,Hyderabad,Hyderabad,Telangana,India,India,Diabetes,Null,Negative
+70,Female,Bhavnagar,Bhavnagar,Gujarat,India,India,BP,Null,Negative
+46,Female,Vadodara,Vadodara,Gujarat,India,India,BP,Dry Cough,Positive
+67,Female,Khanyar,Srinagar,Jammu and Kashmir,India,Singapore,Diabetes,Dry Cough,Positive
+41,Male,Kasargod,Kasargod,Kerala,India,Dubai,Diabetes,Fever,Positive
+41,Female,Bagalkot,Bagalkot,Karnataka,India,India,Diabetes,Null,Negative
+41,Female,Bebusarai,Bebusarai,Bihar,India,India,Diabetes,Sore Throat,Negative
+41,Male,Kareemnagar,Kareemnagar,Telangana,India,India,Diabetes,Null,Negative
+41,Female,Chandigarh,Chandigarh,Chandigarh,India,Dubai,BP,Dry Cough,Positive
+34,Female,Kasaragod,Kasaragod,Kerala,India,India,Null,Dry Cough,Positive
+28,Female,Pune,Pune,Maharashtra,India,Mumbai,Null,Dry Cough,Positive
+43,Male,Tirunelveli,Tiruneveli,Tamil Nadu,India,Paris,BP,Dry Cough,Positive
+41,Male,Hyderabad,Hyderabad,Telangana,India,UK,BP,Dry Cough,Positive
+23,Male,Kasaragod,Kasaragod,Karnataka,India,France,Null,Fever,Positive
+41,Female,Noida,Gautam Buddha Nagar,Uttar Pradesh,India,Dubai,BP,Dry Cough,Positive
+33,Male,Ahmedabad,Ahmedabad,Gujarat,India,India,Null,Dry Cough,Positive
+41,Female,Bhavnagar,Bhavnagar,Gujarat,India,India,Diabetes,Null,Negative
+26,Male,Pune,Pune,Maharashtra,India,London,Null,Dry Cough,Positive
+20,Male,Chennai,Chennai,Tamil Nadu,India,Scotland,Null,Dry Cough,Positive
+68,Female,Mumbai,Mumbai,Maharashtra,India,Mumbai,Diabetes,Sore Throat,Positive
+18,Male,Chennai,Chennai,Tamil Nadu,India,India,Null,Dry Cough,Positive
+41,Male,Ahmedabad,Ahmedabad,Gujarat,India,India,BP,Dry Cough,Positive
+32,Female,Bebusarai,Bebusarai,Bihar,India,India,Null,Null,Negative
+41,Female,Shaheed Bhagat Singh Nagar,Shaheed Bhagat Singh Nagar,Punjab,India,Netherlands,BP,Dry Cough,Positive
+41,Female,Pune,Pune,Maharashtra,India,Sri Lanka,BP,Dry Cough,Positive
+22,Male,Ashok Vihar,Ashok Vihar,Delhi,India,Saudi Arabia,Null,Dry Cough,Positive
+41,Female,Noida,Gautam Buddh Nagar,Uttar Pradesh,India,India,Diabetes,Fever,Positive
+41,Male,Kasaragod,Kasaragod,Kerala,India,Dubai,BP,Dry Cough,Positive
+68,Female,Erode,Erode,Tamil Nadu,India,India,BP,Fever,Negative
+41,Female,Delhi,Delhi,Delhi,India,Turkey,BP,Dry Cough,Positive
+41,Female,Kangra,Kangra,Himachal Pradesh,India,UK,BP,Dry Cough,Positive
+41,Female,Balasore,Balasore,Orissa,India,India,Diabetes,Null,Negative
+35,Male,Navi Mumbai,Navi Mumbai,Maharashtra,India,India,Null,Dry Cough,Positive
+38,Female,Mumbai,Mumbai,Maharashtra,India,India,Null,Dry Cough,Positive
+41,Male,Banaras,Banaras,Uttar Pradesh,India,India,Diabetes,Null,Negative
+59,Female,Indore,Indore,Madhya Pradesh,India,India,Diabetes,Null,Negative
+63,Female,Erode,Erode,Tamil Nadu,India,India,BP,Null,Negative
+45,Male,Khandala,Satara,Maharashtra,India,India,BP,Dry Cough,Positive
+41,Female,Lucknow,Lucknow,Uttar Pradesh,India,India,BP,Dry Cough,Positive
+47,Male,Eriyal,Kasaragod,Kerala,India,India,BP,Dry Cough,Positive
+30,Female,Jhunjhunu,Jhunjhunu,Rajasthan,India,Malaysia,Null,Dry Cough,Positive
+69,Female,Vadodara,Vadodara,Gujarat,India,Germany,Diabetes,Dry Cough,Positive
+25,Female,Keelkattalai,Chennai,Tamil Nadu,India,India,Null,Fever,Positive
+41,Male,Jahangirpuri,Jahangirpuri,Delhi,India,India,BP,Dry Cough,Positive
+60,Female,Mumbai Suburb,Mumbai Suburb,Maharashtra,India,India,Diabetes,Dry Cough,Positive
+55,Male,Kollam,Kollam,Kerala,India,India,Diabetes,Null,Negative
+41,Female,Satna,Satna,Madhya Pradesh,India,India,Diabetes,Null,Negative
+69,Male,Bebusarai,Bebusarai,Bihar,India,India,BP,Null,Negative
+59,Female,Bastar,Bastar,Chhattisgarh,India,India,Diabetes,Null,Negative
+34,Male,Udupi,Udupi,Karnataka,India,London,Null,Fever,Positive
+37,Male,Mumbai,Mumbai,Maharashtra,India,Italy,Null,Dry Cough,Positive
+32,Female,Bhavnagar,Bhavnagar,Gujarat,India,India,Null,Null,Negative
+41,Female,Banaras,Banaras,Uttar Pradesh,India,India,Diabetes,Null,Negative
+41,Male,Ajmer,Ajmer,Rajasthan,India,India,Diabetes,Null,Negative
+41,Male,Bebusarai,Bebusarai,Bihar,India,India,Diabetes,Null,Negative
+41,Male,Kochi,Ernakulam,Kerala,India,London,BP,Dry Cough,Positive
+41,Female,Birbhum,Birbhum,West Bengal,India,India,Diabetes,Fever,Negative
+45,Female,Kalaburagi,Kalaburagi,Karnataka,India,Dubai,BP,Dry Cough,Positive
+45,Male,Nawanshahr,Shaheed Bhagat Singh Nagar,Punjab,India,Thailand,BP,Dry Cough,Positive
+41,Male,Kochi,Kannur,Kerala,India,Mecca,BP,Dry Cough,Positive
+41,Male,Kolasib,Kolasib,Mizoram,India,India,Diabetes,Null,Negative
+41,Female,Pune,Pune,Maharashtra,India,Mumbai,BP,Sore Throat,Positive
+41,Male,Mumbai,Mumbai,Maharashtra,India,India,BP,Dry Cough,Positive
+30,Female,Bebusarai,Bebusarai,Bihar,India,India,Null,Null,Negative
+34,Male,Bebusarai,Bebusarai,Bihar,India,India,Null,Null,Negative
+45,Female,Wayanad,Wayanad,Kerala,India,India,Diabetes,Sore Throat,Negative
+74,Female,Mohali,Sahibzada Ajit Singh Nagar,Punjab,India,India,Diabetes,Dry Cough,Positive
+52,Female,Purasaivakkam,Chennai,Tamil Nadu,India,London,Diabetes,Fever,Positive
+41,Female,Gurugram,Gurugram,Haryana,India,India,BP,Dry Cough,Positive
+65,Female,Wayanad,Wayanad,Kerala,India,India,BP,Sore Throat,Negative
+38,Female,Panchkula,Panchkula,Haryana,India,UK,Null,Dry Cough,Positive
+3,Female,Pune,Pune,Maharashtra,India,India,Null,Sore Throat,Positive
+41,Female,Delhi,Delhi,Delhi,India,Russia,BP,Dry Cough,Positive
+25,Female,Tri Nagar,Delhi,Delhi,India,Doha,Null,Breathing Problem,Positive
+26,Female,Chandigarh,Chandigarh,Chandigarh,India,London,Null,Dry Cough,Positive
+3,Male,Hyderabad,Hyderabad,Telangana,India,India,Null,Fever,Positive
+21,Female,Surat,Surat,Gujarat,India,Scotland,Null,Dry Cough,Positive
+41,Male,Pathanamthitta,Pathanamthitta,Kerala,India,Dubai,Diabetes,Fever,Positive
+64,Male,Bebusarai,Bebusarai,Bihar,India,India,BP,Null,Negative
+37,Male,Ernakulam,Ernakulam,Kerala,India,USA,Null,Fever,Positive
+47,Male,Amritsar,Amritsar,Punjab,India,Dubai,Diabetes,Fever,Positive
+41,Female,Agra,Agra,Uttar Pradesh,India,London,BP,Breathing Problem,Positive
+55,Female,Ludhiana,Ludhiana,Punjab,India,UK,Diabetes,Fever,Positive
+51,Male,Yavatmal,Yavatmal,Maharashtra,India,Spain,BP,Dry Cough,Positive
+41,Female,Gautam Buddh Nagar,Gautam Buddh Nagar,Uttar Pradesh,India,Dubai,BP,Dry Cough,Positive
+41,Female,Pune,Pune,Maharashtra,India,Saudi Arabia,BP,Dry Cough,Positive
+21,Male,Panipat,Panipat,Haryana,India,Spain,Null,Dry Cough,Positive
+41,Male,Pune,Pune,Maharashtra,India,India,BP,Breathing Problem,Positive
+65,Male,Chennai,Chennai,Tamil Nadu,India,Dubai,Diabetes,Dry Cough,Positive
+41,Female,Satna,Satna,Madhya Pradesh,India,India,Diabetes,Null,Negative
+27,Male,Nellore,S.P.S. Nellore,Andhra Pradesh,India,Dubai,Null,Sore Throat,Positive
+41,Male,Bebusarai,Bebusarai,Bihar,India,India,Diabetes,Sore Throat,Negative
+41,Male,North East Delhi,North East Delhi,Delhi,India,India,Diabetes,Null,Negative
+41,Female,Bastar,Bastar,Chhattisgarh,India,India,Diabetes,Null,Negative
+46,Male,Janakpuri,South West Delhi,Delhi,India,India,BP,Sore Throat,Positive
+41,Male,Ajmer,Ajmer,Rajasthan,India,India,Diabetes,Null,Negative
+38,Male,Bebusarai,Bebusarai,Bihar,India,India,Null,Sore Throat,Negative
+41,Male,Mumbai,Mumbai,Maharashtra,India,India,Diabetes,Null,Negative
+41,Male,Bhadradri Kothagudem,Bhadradri Kothagudem,Telangana,India,India,Diabetes,Fever,Positive
+48,Male,Tiruppur,Tiruppur,Tamil Nadu,India,India,BP,Dry Cough,Positive
+41,Male,Indore,Indore,Madhya Pradesh,India,Saudi Arabia,Diabetes,Fever,Positive
+33,Male,Pune,Pune,Maharashtra,India,Dubai,Null,Dry Cough,Positive
+41,Female,Delhi,Delhi,Delhi,India,Germany,BP,Dry Cough,Positive
+41,Male,Pune,Pune,Maharashtra,India,USA,BP,Dry Cough,Positive
+41,Female,North East Delhi,North East Delhi,Delhi,India,India,Diabetes,Null,Negative
+30,Female,Mumbai Suburb,Mumbai Suburb,Maharashtra,India,India,Null,Dry Cough,Positive
+41,Male,Pathanamthitta,Pathanamthitta,Kerala,India,Germany,BP,Dry Cough,Positive
+35,Female,Birbhum,Birbhum,West Bengal,India,India,Null,Fever,Negative
+22,Female,Jabalpur,Jabalpur,Madhya Pradesh,India,India,Null,Dry Cough,Positive
+55,Male,Kollam,Kollam,Kerala,India,India,Diabetes,Null,Negative
+41,Male,Ahmedabad,Ahmedabad,Gujarat,India,India,Diabetes,Fever,Positive
+41,Male,Sangli,Sangli,Maharashtra,India,California,BP,Dry Cough,Positive
+24,Male,Kasaragod,Kasaragod,Kerala,India,India,Null,Dry Cough,Positive
+32,Male,North East Delhi,North East Delhi,Delhi,India,India,Null,Null,Negative
+41,Male,Kasaragod,Kasaragod,Kerala,India,Mumbai,BP,Dry Cough,Positive
+20,Male,North East Delhi,North East Delhi,Delhi,India,India,Null,Null,Negative
+89,Female,Banaras,Banaras,Uttar Pradesh,India,India,BP,Sore Throat,Negative
+41,Female,Bhilwara,Bhilwara,Rajasthan,India,Dubai,BP,Dry Cough,Positive
+26,Female,Bebusarai,Bebusarai,Bihar,India,India,Null,Sore Throat,Negative
+41,Female,Kannur,Kannur,Kerala,India,India,BP,Dry Cough,Positive
+53,Female,Ranni,Pathanamthitta,Kerala,India,Italy,BP,Breathing Problem,Positive
+21,Female,Birbhum,Birbhum,West Bengal,India,India,Null,Fever,Negative
+25,Male,Gachibowli,Hyderabad,Telangana,India,India,Null,Dry Cough,Positive
+64,Female,Mumbai city,Mumbai city,Maharashtra,India,India,Diabetes,Dry Cough,Positive
+20,Female,Lucknow,Lucknow,Uttar Pradesh,India,UK,Null,Dry Cough,Positive
+41,Male,Thrissur,Thrissur,Kerala,India,France,BP,Dry Cough,Positive
+44,Male,Gurugram,Gurugram,Haryana,India,Italy,BP,Dry Cough,Positive
+55,Female,Saidapet,Chennai,Tamil Nadu,India,London,Diabetes,Fever,Positive
+46,Male,Banaras,Banaras,Uttar Pradesh,India,India,Diabetes,Sore Throat,Negative
+41,Male,Satna,Satna,Madhya Pradesh,India,India,Diabetes,Null,Negative
+65,Male,Solapur,Solapur,Maharashtra,India,India,BP,Null,Negative
+25,Male,Goa,Goa,Goa,India,India,Null,Dry Cough,Positive
+41,Female,Kochi,Ernakulam,Kerala,United Kingdom,UK,BP,Dry Cough,Positive
+31,Female,Bebusarai,Bebusarai,Bihar,India,India,Null,Null,Negative
+40,Female,Hisar,Hisar,Haryana,India,India,Diabetes,Null,Negative
+67,Male,Balasore,Balasore,Orissa,India,India,BP,Null,Negative
+47,Male,Kasaragod,Bengaluru,Karnataka,India,India,Diabetes,Fever,Positive
+28,Female,Bastar,Bastar,Chhattisgarh,India,India,Null,Null,Negative
+41,Male,Kangra,Kangra,Himachal Pradesh,India,Mexico,BP,Dry Cough,Positive
+29,Female,Vadodara,Vadodara,Gujarat,India,London,Null,Dry Cough,Positive
+31,Male,Bhatinda,Bhatinda,Punjab,India,India,Null,Null,Negative
+39,Male,Mumbai City,Mumbai City,Maharashtra,India,India,Null,Fever,Positive
+31,Male,Greater Noida,Greater Noida,Uttar Pradesh,India,Ireland,Null,Dry Cough,Positive
+32,Male,Gautam Puri,Gautam Puri,Delhi,India,Italy,Null,Dry Cough,Positive
+41,Female,Bagalkot,Bagalkot,Karnataka,India,India,Diabetes,Null,Negative
+41,Female,Bagalkot,Bagalkot,Karnataka,India,India,Diabetes,Null,Negative
+41,Female,Banaras,Banaras,Uttar Pradesh,India,India,Diabetes,Sore Throat,Negative
+9,Female,Bengaluru,Bengaluru,Karnataka,India,Arrived,Null,Fever,Positive
+66,Male,Chennai,Chennai,Tamil Nadu,India,India,BP,Dry Cough,Positive
+41,Male,Pune,Pune,Maharashtra,India,Saudi Arabia,BP,Fever,Positive
+67,Male,Surat,Surat,Gujarat,India,India,Diabetes,Dry Cough,Positive
+55,Male,Goa,Goa,Goa,India,India,Diabetes,Fever,Positive
+54,Male,Ranni,Pathanamthitta,Kerala,India,Oman,BP,Breathing Problem,Positive
+41,Female,Pimpri-Chinchwad,Pune,Maharashtra,India,UK,BP,Dry Cough,Positive
+45,Male,Surat,Surat,Gujarat,India,Qatar,BP,Dry Cough,Positive
+39,Male,Hisar,Hisar,Haryana,India,India,Null,Null,Negative
+57,Male,Navi Mumbai,Navi Mumbai,Maharashtra,India,India,Diabetes,Fever,Positive
+41,Male,Hyderabad,Hyderabad,Telangana,India,India,BP,Dry Cough,Positive
+41,Female,Pune,Pune,Maharashtra,India,India,BP,Dry Cough,Positive
+76,Female,Chitrakoot,Chitrakoot,Madhya Pradesh,India,India,BP,Sore Throat,Negative
+35,Male,Lucknow,Lucknow,Uttar Pradesh,India,Saudi Arabia,Null,Dry Cough,Positive
+41,Male,Mohali,Sahibzada Ajit Singh Nagar,Punjab,India,Turkey,BP,Dry Cough,Positive
+65,Male,Hisar,Hisar,Haryana,India,India,BP,Null,Negative
+41,Male,Banaras,Banaras,Uttar Pradesh,India,India,Diabetes,Sore Throat,Negative
+41,Female,Delhi,Delhi,Delhi,India,Dubai,BP,Dry Cough,Positive
+26,Male,Raipur,Raipur,Chhattisgarh,India,India,Null,Fever,Positive
+41,Male,Alirajpur,Alirajpur,Madhya Pradesh,India,India,Diabetes,Null,Negative
+56,Female,Kozhikode,Kozhikode,Kerala,India,Sri Lanka,Diabetes,Fever,Positive
+41,Male,Leh,Leh,Ladakh,India,Philippines,BP,Dry Cough,Positive
+81,Female,Gandhinagar,Gandhinagar,Gujarat,India,India,Diabetes,Dry Cough,Positive
+59,Female,Bebusarai,Bebusarai,Bihar,India,India,Diabetes,Null,Negative
+40,Male,Uttara Kannada,Uttara Kannada,Karnataka,India,Paris,Diabetes,Fever,Positive
+41,Female,Salem,Salem,Tamil Nadu,Indonesia,Scotland,Diabetes,Fever,Positive
+26,Male,Bengaluru,Bengaluru,Karnataka,India,Kasargod,Null,Fever,Positive
+20,Male,Mumbai,Mumbai,Maharashtra,India,India,Null,Dry Cough,Positive
+35,Male,Bengaluru,Bengaluru,Karnataka,India,Italy,Null,Dry Cough,Positive
+30,Male,Saidabad,Hyderabad,Telangana,India,Italy,Null,Dry Cough,Positive
+62,Male,Kollam,Kollam,Kerala,India,India,BP,Null,Negative
+25,Male,Chennai,Chennai,Tamil Nadu,India,India,Null,Dry Cough,Positive
+27,Male,Bhopal,Bhopal,Madhya Pradesh,India,India,Null,Null,Negative
+41,Male,Hyderabad,Hyderabad,Telangana,Indonesia,US,BP,Dry Cough,Positive
+41,Female,Bastar,Bastar,Chhattisgarh,India,India,Diabetes,Null,Negative
+70,Male,Jaipur,Jaipur,Rajasthan,Italy,Italy,Diabetes,Fever,Positive
+32,Male,Gowribidanur,Chikkaballapura,Karnataka,India,UK,Null,Dry Cough,Positive
+46,Female,Hyderabad,Hyderabad,Telangana,India,India,BP,Dry Cough,Positive
+41,Male,Chandigarh,Chandigarh,Chandigarh,India,Saudi Arabia,BP,Dry Cough,Positive
+41,Female,Bebusarai,Bebusarai,Bihar,India,India,Diabetes,Sore Throat,Negative
+22,Female,Erode,Erode,Tamil Nadu,India,India,Null,Fever,Negative
+38,Male,Kamothe Raigad,Kamothe Raigad,Maharashtra,India,London,Null,Fever,Positive
+22,Male,Bebusarai,Bebusarai,Bihar,India,India,Null,Null,Negative
+23,Male,Bebusarai,Bebusarai,Bihar,India,India,Null,Null,Negative
+41,Male,Indore,Indore,Madhya Pradesh,India,Saudi Arabia,Diabetes,Fever,Positive
+54,Male,Kolasib,Kolasib,Mizoram,India,India,Diabetes,Null,Negative
+70,Female,Kasaragod,Kasaragod,Karnataka,India,Kochi,BP,Fever,Positive
+45,Male,Hisar,Hisar,Haryana,India,India,Diabetes,Null,Negative
+38,Male,Munger,Munger,Bihar,India,India,Null,Dry Cough,Positive
+41,Female,Agra,Agra,Uttar Pradesh,India,US,BP,Dry Cough,Positive
+33,Male,Bhopal,Bhopal,Madhya Pradesh,India,India,Null,Null,Negative
+41,Female,Mumbai,Mumbai,Maharashtra,India,UK,BP,Dry Cough,Positive
+24,Female,Delhi,Delhi,Delhi,India,UK,Null,Dry Cough,Positive
+27,Female,Bebusarai,Bebusarai,Bihar,India,India,Null,Null,Negative
+41,Male,Hyderabad,Hyderabad,Telangana,Indonesia,UK,BP,Dry Cough,Positive
+26,Male,Bebusarai,Bebusarai,Bihar,India,India,Null,Null,Negative
+41,Male,Mumbai,Mumbai,Maharashtra,India,Dubai,Diabetes,Fever,Positive
+41,Female,Kolasib,Kolasib,Mizoram,India,India,Diabetes,Null,Negative
+2,Male,Mohali,Shaheed Bhagat Singh Nagar,Punjab,India,Dubai,Null,Dry Cough,Positive
+41,Female,Bhilwara,Bhilwara,Rajasthan,India,India,Diabetes,Fever,Positive
+38,Male,Bebusarai,Bebusarai,Bihar,India,India,Null,Null,Negative
+41,Male,Sangli,Sangli,Maharashtra,India,India,BP,Dry Cough,Positive
+59,Male,Vadodara,Vadodara,Gujarat,India,India,BP,Dry Cough,Positive
+41,Male,Bebusarai,Bebusarai,Bihar,India,India,Diabetes,Null,Negative
+41,Male,Rayalseema,Rayalseema,Andhra Pradesh,India,India,Diabetes,Null,Negative
+51,Male,Bengaluru,Bengaluru,Karnataka,India,Dubai,BP,Dry Cough,Positive
+32,Male,Mumbai Suburb,Mumbai Suburb,Maharashtra,India,India,Null,Dry Cough,Positive
+85,Male,Banaras,Banaras,Uttar Pradesh,India,India,BP,Sore Throat,Negative
+41,Male,Hyderabad,Hyderabad,Telangana,Indonesia,India,BP,Dry Cough,Positive
+41,Male,Kolasib,Kolasib,Mizoram,India,India,Diabetes,Null,Negative
+41,Male,Kasaragod,Kasaragod,Kerala,India,UK,BP,Dry Cough,Positive
+58,Male,North Delhi,North Delhi,Delhi,India,India,BP,Dry Cough,Positive
+41,Male,Mumbai,Mumbai,Maharashtra,India,Mecca,Diabetes,Fever,Positive
+27,Male,Kasaragod,Kasaragod,Kerala,India,Phuket,Null,Dry Cough,Positive
+23,Female,Habra,North 24 Parganas,West Bengal,India,Finland,Null,Dry Cough,Positive
+41,Female,Bhavnagar,Bhavnagar,Gujarat,India,India,Diabetes,Null,Negative
+21,Male,Pune,Pune,Maharashtra,India,India,Null,Dry Cough,Positive
+25,Female,Erode,Erode,Tamil Nadu,India,India,Null,Fever,Negative
+55,Female,Kollam,Kollam,Kerala,India,India,Diabetes,Null,Negative
+41,Female,Ajmer,Ajmer,Rajasthan,India,India,Diabetes,Null,Negative
+35,Male,Bhavnagar,Bhavnagar,Gujarat,India,India,Null,Null,Negative
+21,Male,Chandigarh,Chandigarh,Chandigarh,India,India,Null,Dry Cough,Positive
+35,Male,Nawanshahr,Shaheed Bhagat Singh Nagar,Punjab,India,Thailand,Null,Dry Cough,Positive
+45,Male,Solapur,Solapur,Maharashtra,India,India,Diabetes,Null,Negative
+70,Male,Banga,Shaheed Bhagat Singh Nagar,Punjab,India,Netherlands,Diabetes,Dry Cough,Positive
+23,Male,Ernakulam,Ernakulam,Kerala,India,Egypt,Null,Fever,Positive
+41,Female,Hisar,Hisar,Haryana,India,India,Diabetes,Null,Negative
+38,Female,Dilshad Garden,Dilshad Garden,Delhi,India,Delhi,Null,Dry Cough,Positive
+50,Female,Hyderabad,Hyderabad,Telangana,India,India,BP,Dry Cough,Positive
+49,Female,Visakhapatnam,Visakhapatnam,Andhra Pradesh,India,India,BP,Dry Cough,Positive
+26,Male,Gandhinagar,Gandhinagar,Gujarat,India,Dubai,Null,Dry Cough,Positive
+41,Male,Gautam Buddh Nagar,Gautam Buddh Nagar,Uttar Pradesh,India,India,BP,Dry Cough,Positive
+41,Female,Chitrakoot,Chitrakoot,Madhya Pradesh,India,India,Diabetes,Sore Throat,Negative
+49,Male,Bhavnagar,Bhavnagar,Gujarat,India,India,Diabetes,Null,Negative
+65,Male,Ranni,Pathanamthitta,Kerala,India,Doha,Diabetes,Breathing Problem,Positive
+41,Male,Noida,Gautam Buddh Nagar,Uttar Pradesh,India,India,Diabetes,Fever,Positive
+75,Female,Indore,Indore,Madhya Pradesh,India,India,BP,Fever,Negative
+19,Female,Moradabad,Moradabad,Uttar Pradesh,India,India,Null,Dry Cough,Positive
+41,Male,Mohali,Jodhpur,Rajasthan,India,India,BP,Dry Cough,Positive
+20,Female,Alirajpur,Alirajpur,Madhya Pradesh,India,India,Null,Null,Negative
+36,Female,Bengaluru,Bengaluru,Karnataka,India,Dubai,Null,Dry Cough,Positive
+63,Female,Jammu,Jammu,Jammu and Kashmir,India,Italy,Diabetes,Breathing Problem,Positive
+47,Male,Vadodara,Vadodara,Gujarat,India,UK,BP,Dry Cough,Positive
+33,Male,Thane,Thane,Maharashtra,India,Dubai,Null,Dry Cough,Positive
+62,Female,Uttam Nagar,West Delhi,Delhi,India,Thailand,Diabetes,Fever,Positive
+41,Male,Nawabganj,Kanpur,Uttar Pradesh,India,India,BP,Dry Cough,Positive
+41,Female,Kannur,Kannur,Kerala,India,France,BP,Dry Cough,Positive
+26,Male,Ajmer,Ajmer,Rajasthan,India,India,Null,Null,Negative
+41,Female,Bhilwara,Bhilwara,Rajasthan,India,India,Diabetes,Dry Cough,Positive
+41,Female,Ahmedabad,Ahmedabad,Gujarat,India,India,BP,Dry Cough,Positive
+41,Male,Bebusarai,Bebusarai,Bihar,India,India,Diabetes,Null,Negative
+41,Male,Bengaluru,Bengaluru,Karnataka,India,Doha,BP,Breathing Problem,Positive
+41,Male,Kozhikode,Kozhikode,Kerala,India,Hyderabad,Diabetes,Fever,Positive
+41,Female,Chengalam,Kottayam,Kerala,India,India,BP,Breathing Problem,Positive
+41,Female,Kolkata,Kolkata,West Bengal,India,India,Diabetes,Fever,Positive
+41,Female,Bhavnagar,Bhavnagar,Gujarat,India,India,Diabetes,Null,Negative
+41,Male,Mumbai,Mumbai,Maharashtra,India,Dubai,Diabetes,Fever,Positive
+57,Female,Bebusarai,Bebusarai,Bihar,India,India,Diabetes,Null,Negative
+50,Male,Aizawl,Aizawl,Mizoram,India,Birmingham,Diabetes,Fever,Positive
+30,Female,Bengaluru,Bengaluru,Karnataka,India,Dubai,Null,Dry Cough,Positive
+41,Male,Mumbai,Mumbai,Maharashtra,India,India,BP,Dry Cough,Positive
+41,Male,Thiruvanathapuram,Thiruvananthapuram,Kerala,India,Qatar,BP,Dry Cough,Positive
+36,Male,Rajkot,Rajkot,Gujarat,India,Kannur,Null,Fever,Positive
+60,Male,Bengaluru,Bengaluru,Karnataka,India,Denmark,Diabetes,Dry Cough,Positive
+41,Male,Kalyan,Kalyan,Maharashtra,India,Dubai,Diabetes,Fever,Positive
+47,Female,Kasaragod,Kasaragod,Kerala,India,London,BP,Dry Cough,Positive
+52,Male,Guntur,Guntur,Andhra Pradesh,India,UK,Diabetes,Dry Cough,Positive
+69,Male,Solapur,Solapur,Maharashtra,India,India,BP,Null,Negative
+59,Female,Bhatinda,Bhatinda,Punjab,India,India,Diabetes,Null,Negative
+26,Female,Delhi,Delhi,Delhi,India,Dubai,Null,Dry Cough,Positive
+41,Male,Chandigarh,Chandigarh,Chandigarh,India,Mecca,BP,Dry Cough,Positive
+41,Female,Delhi,Delhi,Delhi,India,India,BP,Dry Cough,Positive
+69,Female,Balasore,Balasore,Orissa,India,India,BP,Null,Negative
+41,Male,Mumbai,Mumbai,Maharashtra,India,Dubai,Diabetes,Fever,Positive
+59,Female,Lakhapt,Kutch,Gujarat,India,Sri Lanka,BP,Dry Cough,Positive
+25,Male,Srikalahasti,Chitoor,Andhra Pradesh,India,Qatar,Null,Fever,Positive
+41,Male,Bagalkot,Bagalkot,Karnataka,India,India,Diabetes,Null,Negative
+41,Male,Chandigarh,Chandigarh,Chandigarh,India,India,BP,Dry Cough,Positive
+55,Male,Gurugram,Gurugram,Haryana,Italy,Italy,BP,Fever,Positive
+41,Male,Mumbai,Mumbai,Maharashtra,India,Turkey,BP,Dry Cough,Positive
+21,Male,Pimpri-Chinchwad,Pimpri-Chinchwad,Maharashtra,India,Italy,Null,Dry Cough,Positive
+41,Male,Pune,Pune,Maharashtra,India,Bahrain,BP,Dry Cough,Positive
+41,Male,North East Delhi,North East Delhi,Delhi,India,India,Diabetes,Null,Negative
+54,Male,Madurai,Madurai,Tamil Nadu,India,India,BP,Fever,Positive
+61,Female,Begumpet,Hyderabad,Telangana,India,London,BP,Fever,Positive
+56,Female,Erode,Erode,Tamil Nadu,India,India,Diabetes,Fever,Negative
+41,Male,Kochi,Ernakulam,Kerala,United Kingdom,Dubai,BP,Dry Cough,Positive
+41,Male,Bandipora,Bandipora,Jammu and Kashmir,India,India,Diabetes,Fever,Positive
+41,Female,Bhilwara,Bhilwara,Rajasthan,India,UK,Diabetes,Fever,Positive
+41,Male,Mumbai,Mumbai,Maharashtra,India,India,BP,Dry Cough,Positive
+41,Male,Kolasib,Kolasib,Mizoram,India,India,Diabetes,Null,Negative
+54,Female,Wayanad,Wayanad,Kerala,India,India,Diabetes,Sore Throat,Negative
+65,Male,Uttara Kannada,Uttara Kannada,Karnataka,India,India,BP,Fever,Positive
+28,Female,Mohali,Sahibzada Ajit Singh Nagar,Punjab,India,Saudi Arabia,Null,Dry Cough,Positive
+35,Male,Hisar,Hisar,Haryana,India,India,Null,Null,Negative
+69,Male,Kangra,Kangra,Himachal Pradesh,India,India,Diabetes,Dry Cough,Positive
+60,Female,Hisar,Hisar,Haryana,India,India,BP,Null,Negative
+22,Male,Bhatkal,Uttara Kannada,Karnataka,India,India,Null,Dry Cough,Positive
+63,Male,Mumbai,Mumbai,Maharashtra,India,London,Diabetes,Dry Cough,Positive
+41,Male,Ahmedabad,Ahmedabad,Gujarat,India,Spain,BP,Dry Cough,Positive
+41,Male,Jaipur,Jaipur,Rajasthan,India,Philippines,BP,Dry Cough,Positive
+39,Male,Bengaluru,Bengaluru,Karnataka,India,India,Null,Dry Cough,Positive
+41,Male,Mumbai,Mumbai,Maharashtra,India,Saudi Arabia,BP,Dry Cough,Positive
+41,Male,Srinagar,Srinagar,Jammu and Kashmir,India,Dubai,Diabetes,Fever,Positive
+41,Male,Erode,Erode,Tamil Nadu,India,India,Diabetes,Fever,Negative
+41,Male,Mumbai,Mumbai,Maharashtra,India,Mangaluru,Diabetes,Fever,Positive
+34,Male,Leh,Leh,Ladakh,India,Mumbai,Null,Dry Cough,Positive
+33,Male,Jhunjhunu,Jhunjhunu,Rajasthan,India,Canada,Null,Dry Cough,Positive
+41,Female,Bebusarai,Bebusarai,Bihar,India,India,Diabetes,Sore Throat,Negative
+2,Male,Rayalseema,Rayalseema,Andhra Pradesh,India,India,Null,Null,Negative
+41,Female,Mumbai,Mumbai,Maharashtra,India,India,Diabetes,Null,Negative
+41,Male,Bhopal,Bhopal,Madhya Pradesh,India,India,Diabetes,Null,Negative
+75,Male,Hisar,Hisar,Haryana,India,India,BP,Null,Negative
+41,Female,Bebusarai,Bebusarai,Bihar,India,India,Diabetes,Null,Negative
+41,Female,Nagpur,Nagpur,Maharashtra,India,Dubai,BP,Dry Cough,Positive
+34,Male,Hisar,Hisar,Haryana,India,India,Null,Null,Negative
+24,Male,Jabalpur,Jabalpur,Madhya Pradesh,India,India,Null,Dry Cough,Positive
+13,Female,Bengaluru,Bengaluru,Karnataka,India,Italy,Null,Breathing Problem,Positive
